@@ -1,0 +1,1273 @@
+{"label": "B:Tell the attending that he cannot fail to disclose this mistake", "predict": "A:Disclose the error to the patient and put it in the operative report"}
+{"label": "D:Cross-linking of DNA", "predict": "A:Inhibition of proteasome"}
+{"label": "B:Cholesterol embolization", "predict": "B:Cholesterol embolization"}
+{"label": "D:Lactose-fermenting, gram-negative rods forming pink colonies on MacConkey agar", "predict": "A:Coagulase-positive, gram-positive cocci forming mauve-colored colonies on methicillin-containing agar"}
+{"label": "B:Ketotifen eye drops", "predict": "B:Ketotifen eye drops"}
+{"label": "D:Reassurance and continuous monitoring", "predict": "D:Reassurance and continuous monitoring"}
+{"label": "C:Common iliac artery aneurysm", "predict": "C:Common iliac artery aneurysm"}
+{"label": "C:Clopidogrel", "predict": "C:Clopidogrel"}
+{"label": "B:Active or recurrent pelvic inflammatory disease (PID)", "predict": "A:A history of stroke or venous thromboembolism"}
+{"label": "A:Silvery plaques on extensor surfaces", "predict": "A:Silvery plaques on extensor surfaces"}
+{"label": "D:It is an HIV-1/HIV2 antibody differentiation immunoassay", "predict": "C:It is a Northern blot, identifying the presence of DNA"}
+{"label": "D:Ruxolitinib", "predict": "B:Prednisone"}
+{"label": "B:Meningioma", "predict": "D:Vascular malformations"}
+{"label": "D:A reduction in diastolic filling time", "predict": "A:An increase in right atrial pressure"}
+{"label": "C:Rotavirus", "predict": "D:Vaccinia virus"}
+{"label": "B:Gallbladder cancer", "predict": "B:Gallbladder cancer"}
+{"label": "D:IL-4", "predict": "C:IL-13"}
+{"label": "D:Matching", "predict": "B:Restriction"}
+{"label": "B:Ibuprofen + colchicine +/- omeprazole", "predict": "A:Indomethacin +/- omeprazole"}
+{"label": "D:Benzodiazepine intoxication\n\"", "predict": "B:Ethanol intoxication"}
+{"label": "C:Previous radiation therapy", "predict": "B:Axillary lymph node involvement"}
+{"label": "A:22q11 deletion", "predict": "B:Deletion of genes on chromosome 7"}
+{"label": "C:Histoplasma capsulatum infection", "predict": "C:Histoplasma capsulatum infection"}
+{"label": "D:Staphylococcus aureus", "predict": "C:Haemophilus influenzae"}
+{"label": "A:Intubate with mechanical ventilation", "predict": "A:Intubate with mechanical ventilation"}
+{"label": "D:Respiratory burst", "predict": "D:Respiratory burst"}
+{"label": "D:Steeple sign", "predict": "C:Thumbprint sign on the lateral image"}
+{"label": "A:Induction of CYP3A4 by rifampin leading to decreased serum levels of ethinylestradiol and progesterone", "predict": "A:Induction of CYP3A4 by rifampin leading to decreased serum levels of ethinylestradiol and progesterone"}
+{"label": "D:Increased cerebrospinal fluid protein with normal cell count", "predict": "D:Increased cerebrospinal fluid protein with normal cell count"}
+{"label": "C:Reassurance", "predict": "A:Foot abduction brace"}
+{"label": "D:Obstruction of the cystic duct", "predict": "B:Fistula between the gallbladder and small intestine"}
+{"label": "C:Increased ventricular wall stiffness", "predict": "D:Impaired left ventricular contractility"}
+{"label": "D:Chloramphenicol", "predict": "B:Trimethoprim/sulfamethoxazole"}
+{"label": "B:Proliferation of gastric mucus-producing cells", "predict": "B:Proliferation of gastric mucus-producing cells"}
+{"label": "A:Insulin, potassium, IV fluids, and glucose", "predict": "A:Insulin, potassium, IV fluids, and glucose"}
+{"label": "A:Psoriatic arthritis", "predict": "C:Rheumatoid arthritis"}
+{"label": "D:Paraneoplastic syndrome from small cell carcinoma of the lung", "predict": "C:Myasthenia gravis"}
+{"label": "A:Defective T cell function", "predict": "D:Selective IgA deficiency"}
+{"label": "D:2.67", "predict": "D:2.67"}
+{"label": "A:Arcuate fasciculus", "predict": "D:Arcuate fasciculus + inferior frontal gyrus + superior temporal gyrus"}
+{"label": "C:Polycystic ovarian syndrome (PCOS)", "predict": "B:Idiopathic hirsutism"}
+{"label": "C:Strict blood glucose control", "predict": "C:Strict blood glucose control"}
+{"label": "A:Duodenal atresia", "predict": "B:Meconium ileus"}
+{"label": "B:Coronary sinus", "predict": "D:Pulmonary vein"}
+{"label": "A:Globular 10-week sized uterus", "predict": "C:Irregular 14-week sized uterus"}
+{"label": "D:Fomepizole", "predict": "C:Naloxone"}
+{"label": "C:20", "predict": "D:50"}
+{"label": "A:Femoropopliteal artery stenosis", "predict": "A:Femoropopliteal artery stenosis"}
+{"label": "B:Recommend autopsy of the infant", "predict": "B:Recommend autopsy of the infant"}
+{"label": "C:Proliferation of surfactant-secreting cells", "predict": "C:Proliferation of surfactant-secreting cells"}
+{"label": "D:Induces breaks in double-stranded DNA", "predict": "D:Induces breaks in double-stranded DNA"}
+{"label": "A:Aldosterone excess", "predict": "A:Aldosterone excess"}
+{"label": "D:Defective hepatic bile excretion", "predict": "D:Defective hepatic bile excretion"}
+{"label": "C:Atropine", "predict": "B:Metoclopramide"}
+{"label": "A:Tardive dyskinesia", "predict": "A:Tardive dyskinesia"}
+{"label": "A:KOH examination of lesion scrapings", "predict": "C:Gram stain of skin scrapings"}
+{"label": "C:Gynecomastia", "predict": "A:Agranulocytosis"}
+{"label": "B:Variable β-sequence of the T cell receptor", "predict": "D:IgCAM"}
+{"label": "C:Hemolytic uremic syndrome", "predict": "C:Hemolytic uremic syndrome"}
+{"label": "A:Patients with this disorder are not further sub-typed", "predict": "D:Patients will typically have a BMI between 17–18.5 kg/m2"}
+{"label": "C:Salmonella typhi", "predict": "C:Salmonella typhi"}
+{"label": "A:Acetaldehyde", "predict": "A:Acetaldehyde"}
+{"label": "D:No tests required", "predict": "D:No tests required"}
+{"label": "A:Insert a ‘straight cath’ into the patient’s bladder", "predict": "D:Renal ultrasound"}
+{"label": "A:Disruption of cell membrane permeability", "predict": "A:Disruption of cell membrane permeability"}
+{"label": "B:Lytic lesions of the lumbar spine", "predict": "C:Narrowing of the lumbar disc space"}
+{"label": "C:Perform emergency laparotomy", "predict": "C:Perform emergency laparotomy"}
+{"label": "B:Transplacental passage of TSH receptor antibodies", "predict": "A:Transplacental passage of thyroid peroxidase antibodies"}
+{"label": "D:Nadalol", "predict": "C:Nifedipine"}
+{"label": "A:Proceed with liver biopsy", "predict": "A:Proceed with liver biopsy"}
+{"label": "A:Spontaneous bacterial peritonitis", "predict": "D:Hypoglycemia"}
+{"label": "A:Cardiac contusion", "predict": "A:Cardiac contusion"}
+{"label": "C:Liver transplantation", "predict": "B:Adding lisinopril to his treatment regimen"}
+{"label": "B:Methimazole", "predict": "C:Propranolol"}
+{"label": "C:Potassium hydroxide preparation", "predict": "C:Potassium hydroxide preparation"}
+{"label": "A:5", "predict": "D:21"}
+{"label": "B:Biopsy of the mass", "predict": "B:Biopsy of the mass"}
+{"label": "B:Deposition of calcium pyrophosphate (CPP) crystals", "predict": "C:Inflammatory rheumatological syndrome"}
+{"label": "C:Transposition of great vessels", "predict": "B:Persistent truncus arteriosus"}
+{"label": "C:Interrupted 2-0 polypropylene suture with supporting pledgets", "predict": "A:Immediate cardiac transplant"}
+{"label": "B:Reid Index > 50%", "predict": "D:Evidence of a necrotizing infection"}
+{"label": "A:Caspase-9", "predict": "C:Cyclin-dependent kinase 4"}
+{"label": "C:Acral lentiginous", "predict": "C:Acral lentiginous"}
+{"label": "A:Jaw claudication", "predict": "D:Pink plaques with silvery scales"}
+{"label": "C:Endometrial tissue outside the uterine cavity", "predict": "B:Smooth muscle tumor arising from the myometrium"}
+{"label": "B:Friable irregular masses attached to the valve", "predict": "C:Papillary muscle rupture"}
+{"label": "C:Laparoscopy", "predict": "C:Laparoscopy"}
+{"label": "C:High LDL-cholesterol", "predict": "D:Serum glucose level"}
+{"label": "C:Thoracic aortic rupture", "predict": "B:Traumatic bronchial rupture"}
+{"label": "B:Propylthiouracil", "predict": "B:Propylthiouracil"}
+{"label": "D:Freshwater snails", "predict": "D:Freshwater snails"}
+{"label": "B:Normal hemoglobin in patients with tetralogy of Fallot does not rule out iron deficiency anemia.", "predict": "D:Refractory heart failure is a common complication of tetralogy of Fallot."}
+{"label": "C:Delirium", "predict": "C:Delirium"}
+{"label": "D:Rheumatoid arthritis", "predict": "A:Cerebral palsy"}
+{"label": "C:A drop in systolic blood pressure of 14 mmHg during inspiration", "predict": "A:Tracheal deviation toward the right side"}
+{"label": "D:MR angiography of the brain", "predict": "B:Esophagogastroduodenoscopy"}
+{"label": "A:Autosomal dominant", "predict": "A:Autosomal dominant"}
+{"label": "B:Antigenic variation", "predict": "B:Antigenic variation"}
+{"label": "B:Cervical immobilization", "predict": "D:Observation overnight"}
+{"label": "B:Bromocriptine", "predict": "D:Risperidone"}
+{"label": "D:Anti-B antibodies", "predict": "A:RBC sickling"}
+{"label": "A:Amantadine", "predict": "A:Amantadine"}
+{"label": "A:Stop magnesium sulfate and give calcium gluconate", "predict": "D:Perform nerve conduction studies"}
+{"label": "A:Myxedema coma", "predict": "A:Myxedema coma"}
+{"label": "B:Aortic regurgitation", "predict": "A:Mitral regurgitation"}
+{"label": "B:Borderline personality disorder", "predict": "A:Histrionic personality disorder"}
+{"label": "B:Positive emission tomography (PET) of chest now", "predict": "C:Right middle lobectomy now"}
+{"label": "A:Primary spermatocyte", "predict": "D:Spermatozoon"}
+{"label": "D:Surgical pinning of the femoral head", "predict": "C:Supportive therapy and observation"}
+{"label": "B:Stool leukocytes", "predict": "C:Melanosis coli"}
+{"label": "C:Bacterial translocation", "predict": "C:Bacterial translocation"}
+{"label": "B:Racemic epinephrine and intramuscular corticosteroid therapy", "predict": "C:Intravenous antibiotics"}
+{"label": "B:Esophageal fibrosis", "predict": "C:Increased lower esophageal tone"}
+{"label": "C:JAK/STAT", "predict": "C:JAK/STAT"}
+{"label": "C:Metformin", "predict": "D:Sleep apnea"}
+{"label": "D:Power stroke", "predict": "D:Power stroke"}
+{"label": "C:TSC1 gene on chromosome 9", "predict": "A:NF1 gene on chromosome 17"}
+{"label": "C:Metformin", "predict": "C:Metformin"}
+{"label": "D:Chronic obstructive pulmonary disease", "predict": "D:Chronic obstructive pulmonary disease"}
+{"label": "C:Avoid exposure to birds", "predict": "B:Inhaled beclomethasone"}
+{"label": "D:Uterine artery", "predict": "D:Uterine artery"}
+{"label": "A:Epstein-Barr virus", "predict": "B:Human T-cell leukemia virus type 1"}
+{"label": "D:Zika virus", "predict": "C:Toxoplasmosis"}
+{"label": "A:Mixing study", "predict": "D:Clot retraction study"}
+{"label": "B:Diarrhea", "predict": "D:Macroglossia"}
+{"label": "A:Isoniazid", "predict": "C:Repeat PPD in 1 week"}
+{"label": "A:Herniation of the uncus", "predict": "C:Occlusion of the basilar artery"}
+{"label": "C:Natural killer cells", "predict": "C:Natural killer cells"}
+{"label": "A:Intrafascicular infiltration on muscle biopsy", "predict": "B:Perifascicular and perivascular infiltration on muscle biopsy"}
+{"label": "A:Decreased acetylcholine release", "predict": "A:Decreased acetylcholine release"}
+{"label": "B:Biliary atresia", "predict": "C:Crigler–Najjar syndrome"}
+{"label": "B:QT prolongation", "predict": "B:QT prolongation"}
+{"label": "A:Diverticulitis", "predict": "A:Diverticulitis"}
+{"label": "B:Aortoiliac atherosclerosis", "predict": "B:Aortoiliac atherosclerosis"}
+{"label": "A:Increased PTH, decreased calcium, increased phosphate, decreased calcitriol", "predict": "A:Increased PTH, decreased calcium, increased phosphate, decreased calcitriol"}
+{"label": "C:Binds endogenous peptides that have been transported by the TAP channel", "predict": "D:Binds exogenous peptides that are present in the endosome"}
+{"label": "C:Gastroesophageal junction incompetence", "predict": "A:Partially occluded coronary artery"}
+{"label": "D:Treatment with radioactive iodine", "predict": "C:Systemic corticosteroids"}
+{"label": "B:Reassuring the parents and use of an enuresis alarm", "predict": "C:Treatment with oral oxybutynin"}
+{"label": "D:Decreased positional sense in the ipsilateral leg", "predict": "A:Decreased sense of temperature in the ipsilateral arm"}
+{"label": "C:Amoxicilin", "predict": "C:Amoxicilin"}
+{"label": "A:MRI of the adrenal glands", "predict": "C:Low dose dexamethasone suppression test"}
+{"label": "A:Inhibition of beta-tubulin polymerization", "predict": "A:Inhibition of beta-tubulin polymerization"}
+{"label": "B:Aromatic amines", "predict": "D:Radon"}
+{"label": "C:Reassurance and follow-up", "predict": "C:Reassurance and follow-up"}
+{"label": "D:Normal light microscopy findings", "predict": "A:Mesangial proliferation on light microscopy"}
+{"label": "C:Tumor arising from cutaneous T cells", "predict": "A:Vascular tumor containing spindle cells"}
+{"label": "D:Cognitive behavioral therapy", "predict": "B:Interpersonal therapy"}
+{"label": "B:Frontotemporal dementia", "predict": "A:Alzheimer dementia"}
+{"label": "D:Immunoglobulin- IgM", "predict": "C:Immunoglobulin- IgA"}
+{"label": "A:Levofloxacin", "predict": "C:Amoxicillin"}
+{"label": "D:Theca leutein cysts", "predict": "B:Corpus luteum cysts"}
+{"label": "A:Serum antibodies against hemagglutinin", "predict": "A:Serum antibodies against hemagglutinin"}
+{"label": "A:Previous suicide attempt", "predict": "B:History of psychosis"}
+{"label": "C:Chickenpox", "predict": "C:Chickenpox"}
+{"label": "D:Synthetic cathinone intoxication", "predict": "A:Brief psychotic disorder"}
+{"label": "B:Benztropine", "predict": "B:Benztropine"}
+{"label": "A:Acute pancreatitis", "predict": "A:Acute pancreatitis"}
+{"label": "C:Administer calcium gluconate", "predict": "A:Obtain abdominal CT"}
+{"label": "B:Bartter's syndrome", "predict": "B:Bartter's syndrome"}
+{"label": "C:1 and 2", "predict": "C:1 and 2"}
+{"label": "B:Non-Hodgkin lymphoma", "predict": "B:Non-Hodgkin lymphoma"}
+{"label": "C:Linear IgG staining on immunofluorescence", "predict": "A:Granulomatous inflammation and necrotizing vasculitis"}
+{"label": "A:Positive latex agglutination test", "predict": "A:Positive latex agglutination test"}
+{"label": "A:Viral reactivation in dorsal root ganglia", "predict": "C:Bacterial lymphatic infection of the epidermis"}
+{"label": "B:Using mortality rates in the analysis", "predict": "A:Using survival rates in the analysis"}
+{"label": "B:Silicosis", "predict": "A:Berylliosis"}
+{"label": "C:Takotsubo cardiomyopathy", "predict": "C:Takotsubo cardiomyopathy"}
+{"label": "B:Undergo upper GI endoscopy", "predict": "A:Undergo colonoscopy"}
+{"label": "C:Antigen-antibody complexes", "predict": "C:Antigen-antibody complexes"}
+{"label": "C:Miosis", "predict": "D:Nystagmus"}
+{"label": "D:Prominent occiput", "predict": "D:Prominent occiput"}
+{"label": "C:Olanzapine", "predict": "B:Lorazepam"}
+{"label": "A:Increase in serum ACTH", "predict": "D:Increase in serum cortisol"}
+{"label": "D:Lead-time bias", "predict": "D:Lead-time bias"}
+{"label": "D:Needle decompression", "predict": "A:CT scan of the chest"}
+{"label": "D:580 / (580 + 20)", "predict": "A:580 / (20 + 590)"}
+{"label": "C:Osteoarthritis", "predict": "C:Osteoarthritis"}
+{"label": "D:Right-sided analgesia", "predict": "C:Contralateral corticospinal tract involvement"}
+{"label": "C:Chlamydia trachomatis infection", "predict": "D:Varicocele"}
+{"label": "B:Glanzmann’s thrombasthenia", "predict": "A:Von Willebrand disease"}
+{"label": "D:Non-enveloped with linear, double-stranded DNA", "predict": "A:Non-enveloped with linear, single-stranded DNA"}
+{"label": "B:Glandular tissue enlargement", "predict": "C:Lipomastia (pseudogynecomastia)"}
+{"label": "D:Resistance to clotting factor degradation", "predict": "D:Resistance to clotting factor degradation"}
+{"label": "A:Fluoxetine", "predict": "D:Memantine"}
+{"label": "D:Seek a court order for neoadjuvant chemotherapy", "predict": "A:Help the parents to arrange supportive care at home"}
+{"label": "B:The mischarged tRNA with valine will be incorporated in the codons that specificy for lysine", "predict": "B:The mischarged tRNA with valine will be incorporated in the codons that specificy for lysine"}
+{"label": "B:Ketamine", "predict": "B:Ketamine"}
+{"label": "D:Rotator cuff injury", "predict": "B:Rheumatoid arthritis"}
+{"label": "C:Erosion of tooth enamel", "predict": "A:Malar rash"}
+{"label": "A:Citalopram", "predict": "C:Propranolol"}
+{"label": "C:Maternal diabetes", "predict": "D:Chromosome 18 trisomy"}
+{"label": "D:Effect modification", "predict": "D:Effect modification"}
+{"label": "C:IFN-gamma", "predict": "C:IFN-gamma"}
+{"label": "C:Conversion of aminolevulinic acid to porphobilinogen", "predict": "D:Conversion of uroporphyrinogen III to coproporphyrinogen III"}
+{"label": "C:Recall bias", "predict": "C:Recall bias"}
+{"label": "A:Warfarin", "predict": "A:Warfarin"}
+{"label": "B:Chronic kidney failure", "predict": "A:Acute kidney failure"}
+{"label": "D:Prostate cancer", "predict": "C:Polycystic ovarian syndrome"}
+{"label": "C:Cortical thinning with tubular atrophy", "predict": "A:Glomerular crescents with macrophages"}
+{"label": "A:Calcium oxalate crystals", "predict": "D:Urate crystals"}
+{"label": "B:Ovarian cancer", "predict": "D:Breast cancer"}
+{"label": "C:Inferior thyroid arteries", "predict": "B:Cervical lymph nodes"}
+{"label": "A:Benznidazole", "predict": "D:Sodium stibogluconate"}
+{"label": "B:Inferior mesenteric artery", "predict": "D:Splenic artery"}
+{"label": "B:I, III, IV", "predict": "V:Hepatitis B"}
+{"label": "C:LOD Score > 3", "predict": "C:LOD Score > 3"}
+{"label": "A:Close observation, pap smear screening at 6 and 12 months, and HPV DNA testing at 12 months", "predict": "A:Close observation, pap smear screening at 6 and 12 months, and HPV DNA testing at 12 months"}
+{"label": "B:Inhibits viral assembly", "predict": "D:Prevents T-cell binding"}
+{"label": "A:Squamous cell carcinoma", "predict": "A:Squamous cell carcinoma"}
+{"label": "C:Initiation of S phase", "predict": "A:G1 phase arrest"}
+{"label": "B:Hepatitis C virus antibodies", "predict": "C:JAK-2 mutation"}
+{"label": "D:Lack of risk calculation", "predict": "C:Ascertainment bias"}
+{"label": "A:Acalculous cholecystitis", "predict": "A:Acalculous cholecystitis"}
+{"label": "B:Factitious disorder", "predict": "A:Insulinoma"}
+{"label": "C:Digital rectal examination", "predict": "A:Urinalysis and serum creatinine"}
+{"label": "D:Vasoconstriction of the medullary vessels", "predict": "A:Tubular lumen obstruction by protein casts"}
+{"label": "C:Dilation and curettage", "predict": "C:Dilation and curettage"}
+{"label": "D:Dermis", "predict": "C:Stratum basale"}
+{"label": "A:Dysfunction in a transmembrane regulator", "predict": "C:Dysfunction in the motility of respiratory cilia"}
+{"label": "C:Decreased FEV1 and FVC with normal FEV1/FVC ratio", "predict": "C:Decreased FEV1 and FVC with normal FEV1/FVC ratio"}
+{"label": "A:Administer zidovudine", "predict": "D:Reassurance and follow-up"}
+{"label": "C:Increased gene expression of GLUT-4", "predict": "B:Closure of ATP-sensitive K-channels in the pancreatic beta-cell"}
+{"label": "A:Endometrial sloughing and uterine contractions mediated by prostaglandin", "predict": "A:Endometrial sloughing and uterine contractions mediated by prostaglandin"}
+{"label": "B:Retrograde migration up peripheral nerve axons", "predict": "D:Infection of oligodendrocytes and astrocytes"}
+{"label": "C:Vitiligo", "predict": "C:Vitiligo"}
+{"label": "C:Fludarabinern", "predict": "A:Bleomycin"}
+{"label": "C:Amphotericin B", "predict": "B:Eplerenone"}
+{"label": "A:Chikungunya", "predict": "B:Dengue fever"}
+{"label": "D:Treating the underlying illness", "predict": "D:Treating the underlying illness"}
+{"label": "B:Coarctation of the aorta", "predict": "A:Pulmonic stenosis"}
+{"label": "A:Staphylococcus epidermidis", "predict": "C:Staphylococcus aureus"}
+{"label": "C:Antibiotics and drainage", "predict": "C:Antibiotics and drainage"}
+{"label": "A:Acid-fast", "predict": "A:Acid-fast"}
+{"label": "C:Secretion of γ-interferon by activated T-lymphocytes", "predict": "B:Induction of focal osteolysis by tumor cells"}
+{"label": "A:Active hepatitis A infection", "predict": "A:Active hepatitis A infection"}
+{"label": "A:Nucleotide excision repair", "predict": "A:Nucleotide excision repair"}
+{"label": "B:Dense fibroinflammatory infiltrate", "predict": "C:Pleomorphic undifferentiated infiltrative cells with necrosis"}
+{"label": "A:Incidence rates will be higher during shorter time periods than longer periods.", "predict": "A:Incidence rates will be higher during shorter time periods than longer periods."}
+{"label": "A:Muscle biopsy", "predict": "B:CT scan"}
+{"label": "D:Neuron-specific enolase", "predict": "C:CA 15-3"}
+{"label": "B:Urease-producing organism in the small intestine", "predict": "C:PAS-positive material in the small intestine"}
+{"label": "A:Absent Barr bodies on buccal smear", "predict": "D:Mass in the sella turcica"}
+{"label": "A:Restart rosuvastatin at a lower dose", "predict": "B:Initiate fenofibrate"}
+{"label": "D:Larynx", "predict": "D:Larynx"}
+{"label": "C:Increase PEEP", "predict": "C:Increase PEEP"}
+{"label": "A:Repeat blood cultures now", "predict": "C:Repeat blood cultures 48 hours after initial cultures were drawn"}
+{"label": "D:Azithromycin and ethambutol", "predict": "B:Amphotericin B and itraconazole"}
+{"label": "B:E2F transcription factors", "predict": "D:Cyclin-dependent kinase inhibitors"}
+{"label": "B:PPV decreases, NPV increases", "predict": "A:PPV decreases, NPV decreases"}
+{"label": "A:Cognitive behavioral therapy (CBT)", "predict": "A:Cognitive behavioral therapy (CBT)"}
+{"label": "B:Finasteride", "predict": "B:Finasteride"}
+{"label": "A:Methylphenidate", "predict": "D:Increase daytime naps"}
+{"label": "D:Imbalance of fluid secretion and resorption by the tunica vaginalis", "predict": "A:Patent processus vaginalis"}
+{"label": "A:Surgical debridement", "predict": "A:Surgical debridement"}
+{"label": "C:Microcytic red blood cells", "predict": "D:Bite cells"}
+{"label": "C:Actinic keratosis", "predict": "C:Actinic keratosis"}
+{"label": "D:Tetrahydrobiopterin", "predict": "D:Tetrahydrobiopterin"}
+{"label": "D:Decreased ALA synthesis", "predict": "A:Inhibition of ferrochelatase"}
+{"label": "D:HFE gene", "predict": "D:HFE gene"}
+{"label": "C:Reassurance", "predict": "C:Reassurance"}
+{"label": "C:Staphylococcus aureus", "predict": "A:Salmonella enteritidis"}
+{"label": "D:↓ ↑ ↓", "predict": "C:↓ ↑ ↑"}
+{"label": "C:Systematic desensitization", "predict": "D:Cognitive behavioral therapy"}
+{"label": "A:Diffuse alveolar damage", "predict": "C:Myocardial free wall rupture"}
+{"label": "D:Lower lobe cavitary mass", "predict": "D:Lower lobe cavitary mass"}
+{"label": "A:Primary respiratory acidosis", "predict": "C:Compensatory respiratory acidosis"}
+{"label": "D:100%", "predict": "D:100%"}
+{"label": "D:Cochlea", "predict": "C:Cochlea"}
+{"label": "C:Gram-negative, oxidase-positive bacilli", "predict": "A:Gram-negative, non-maltose fermenting diplococci"}
+{"label": "C:Oligoclonal IgG bands on electrophoresis", "predict": "C:Oligoclonal IgG bands on electrophoresis"}
+{"label": "B:No tests required", "predict": "C:Urinalysis"}
+{"label": "C:Autoimmune endocrinopathy", "predict": "A:Hemorrhagic diathesis"}
+{"label": "A:Abdominal CT scan", "predict": "C:Abdominal ultrasound"}
+{"label": "A:Keratoacanthoma", "predict": "A:Keratoacanthoma"}
+{"label": "A:Adenosine", "predict": "C:Prostaglandin E2"}
+{"label": "C:Interleukin 11", "predict": "D:Granulocyte colony stimulating factor"}
+{"label": "D:Toxic tubulointerstitial nephritis", "predict": "C:Nephrotoxic acute tubular necrosis"}
+{"label": "A:BiPAP", "predict": "A:BiPAP"}
+{"label": "B:Intravenous dexamethasone therapy", "predict": "B:Intravenous dexamethasone therapy"}
+{"label": "B:Cognitive behavioral therapy", "predict": "B:Cognitive behavioral therapy"}
+{"label": "C:Hemidesmosomes", "predict": "A:Desmosomes"}
+{"label": "A:Schizoid personality disorder", "predict": "A:Schizoid personality disorder"}
+{"label": "A:Streptococcus pneumoniae", "predict": "C:Chlamydophila pneumoniae"}
+{"label": "A:Decrease in transmembrane sodium gradient", "predict": "C:Inhibition of aldosterone-mediated sodium reabsorption"}
+{"label": "C:Start him on both hydrocortisone and fludrocortisone therapy", "predict": "A:Administer intravenous fludrocortisone"}
+{"label": "C:Polymerase chain reaction", "predict": "C:Polymerase chain reaction"}
+{"label": "A:Doxycycline", "predict": "D:Antibiotics would not be appropriate at this time"}
+{"label": "B:Impaired CSF flow through the arachnoid granulations", "predict": "C:Impaired CSF drainage into the subarachnoid space"}
+{"label": "C:Small blue cells arranged in rosettes around a central neuropil", "predict": "C:Small blue cells arranged in rosettes around a central neuropil"}
+{"label": "B:There is a 5.2% chance that A is more effective than B is due to chance", "predict": "D:This is a statistically significant result"}
+{"label": "A:Anti-cardiolipin", "predict": "A:Anti-cardiolipin"}
+{"label": "C:Acute arterial occlusion", "predict": "B:Sudden cardiac death"}
+{"label": "A:IM epinephrine", "predict": "A:IM epinephrine"}
+{"label": "A:Metaplasia", "predict": "A:Metaplasia"}
+{"label": "A:Endometrial carcinoma", "predict": "A:Endometrial carcinoma"}
+{"label": "A:Brown-black color in one area of the lesion to red-white in a different area", "predict": "C:Well-circumscribed papule with smooth borders"}
+{"label": "D:Fluid restriction", "predict": "D:Fluid restriction"}
+{"label": "D:Polyostotic fibrous dysplasia", "predict": "D:Polyostotic fibrous dysplasia"}
+{"label": "B:16", "predict": "D:4"}
+{"label": "D:Superomedial quadrant of the right buttock", "predict": "A:Inferolateral quadrant of the right buttock"}
+{"label": "C:Papillary muscles", "predict": "D:Anterior pituitary"}
+{"label": "A:Alport syndrome", "predict": "D:Tuberous sclerosis"}
+{"label": "C:Vaginal septum", "predict": "D:Normal development"}
+{"label": "A:Asthma attack", "predict": "A:Asthma attack"}
+{"label": "B:Lactulose", "predict": "D:Rifaximin"}
+{"label": "C:Ehlers-Danlos syndrome", "predict": "D:Goodpasture syndrome"}
+{"label": "C:Contact another family member for consent", "predict": "A:Follow the daughter’s wishes to withhold the operation"}
+{"label": "C:Increased glomerular filtration rate, restricted aldosterone release, vascular smooth muscle dilation", "predict": "C:Increased glomerular filtration rate, restricted aldosterone release, vascular smooth muscle dilation"}
+{"label": "D:Informed consent is not needed in this case", "predict": "A:The patient’s closest relatives (spouse, child or parent), who must be brought to the hospital as fast as possible"}
+{"label": "B:Prevalence", "predict": "A:Incidence"}
+{"label": "C:Impaired degradation of β-catenin", "predict": "C:Impaired degradation of β-catenin"}
+{"label": "B:Linear aggregations of red blood cells", "predict": "C:Schistocytes"}
+{"label": "B:Oxybutynin", "predict": "C:Metoprolol"}
+{"label": "A:Alpha-adrenergic agonist", "predict": "A:Alpha-adrenergic agonist"}
+{"label": "A:Mixed connective tissue disease", "predict": "C:Systemic sclerosis"}
+{"label": "A:Bupropion", "predict": "C:Fluoxetine"}
+{"label": "A:Denaturation of lens protein", "predict": "D:Increased lens elasticity"}
+{"label": "C:Somatization disorder", "predict": "C:Somatization disorder"}
+{"label": "A:Bipolar II disorder", "predict": "C:Persistent depressive disorder"}
+{"label": "C:Abdominal x-ray", "predict": "D:Colonoscopy"}
+{"label": "A:Subcutaneous fondaparinux", "predict": "A:Subcutaneous fondaparinux"}
+{"label": "C:Intracellular inclusions of alpha-synuclein", "predict": "C:Intracellular inclusions of alpha-synuclein"}
+{"label": "C:Impaired growth plate mineralization", "predict": "C:Impaired growth plate mineralization"}
+{"label": "A:ERCP", "predict": "C:Percutaneous transhepatic cholangiogram"}
+{"label": "B:Autosomal dominant polycystic kidney disease", "predict": "B:Autosomal dominant polycystic kidney disease"}
+{"label": "A:MRI of the hip", "predict": "C:Radionuclide scan of the hip"}
+{"label": "A:Preventable by a live attenuated vaccine", "predict": "C:Cause buboes in the inguinal lymph nodes"}
+{"label": "A:Sympathetic block", "predict": "B:Hypovolemia"}
+{"label": "B:Exchange transfusion", "predict": "D:Warfarin"}
+{"label": "B:Interstitial edema", "predict": "B:Interstitial edema"}
+{"label": "B:Sickle cell disease", "predict": "B:Sickle cell disease"}
+{"label": "D:Inhibition of P-glycoprotein", "predict": "C:Inhibition of CYP 3A4 isoenzyme"}
+{"label": "D:Intubation and mechanical ventilation", "predict": "C:X-rays of the extremities"}
+{"label": "B:Comprehensive foot exam every year", "predict": "D:Meningococcal vaccine"}
+{"label": "A:Hypertrophic cardiomyopathy", "predict": "A:Hypertrophic cardiomyopathy"}
+{"label": "A:Epstein-Barr virus", "predict": "B:Human herpes virus"}
+{"label": "B:Decrease in systemic vascular resistance", "predict": "C:Increase in cardiac output"}
+{"label": "A:Clonidine", "predict": "B:Diazepam taper"}
+{"label": "A:Desensitization", "predict": "A:Desensitization"}
+{"label": "D:Cognitive training", "predict": "D:Cognitive training"}
+{"label": "B:External anal sphincter", "predict": "B:External anal sphincter"}
+{"label": "C:Needle thoracostomy", "predict": "B:Perform an arterial blood gas"}
+{"label": "A:Rectouterine pouch", "predict": "A:Rectouterine pouch"}
+{"label": "A:Cerebellar demyelination", "predict": "D:Subthalamic nucleus stroke"}
+{"label": "B:Fexofenadine", "predict": "B:Fexofenadine"}
+{"label": "B:Reaction formation", "predict": "D:Projection"}
+{"label": "A:Primary hyperparathyroidism", "predict": "C:Secondary hyperparathyroidism"}
+{"label": "C:Continue current therapy", "predict": "C:Continue current therapy"}
+{"label": "B:Decreased adiposity contributes to hypoestrogenemia in this patient", "predict": "C:The patient is likely to have decreased blood estrogen concentration due to increased liver metabolism"}
+{"label": "B:Incision and drainage with intravenous ampicillin-sulbactam therapy", "predict": "A:Intravenous dexamethasone therapy"}
+{"label": "A:Factitious disorder", "predict": "C:Conversion disorder"}
+{"label": "A:Adverse effect of anesthetic", "predict": "D:Excessive lysis of red blood cells"}
+{"label": "B:Bone marrow biopsy", "predict": "C:Peripheral blood smear"}
+{"label": "C:Heliobacter pylori infection", "predict": "C:Heliobacter pylori infection"}
+{"label": "A:HIV, syphilis, and hepatitis B", "predict": "D:HIV, syphilis, hepatitis B, N. gonorrhea, and C. trachomatis"}
+{"label": "A:Schizotypal personality disorder", "predict": "A:Schizotypal personality disorder"}
+{"label": "D:Heroin", "predict": "D:Heroin"}
+{"label": "B:Moderate flexion then hyperpronation", "predict": "A:Immobilization"}
+{"label": "C:Polymyositis", "predict": "C:Polymyositis"}
+{"label": "A:Anterior horn cell degeneration", "predict": "B:Axonal demyelination"}
+{"label": "A:Methimazole and propranolol therapy", "predict": "A:Methimazole and propranolol therapy"}
+{"label": "D:Tenderness at the insertion of the Achilles tendon", "predict": "A:Circular erythematous rash with central clearing"}
+{"label": "C:Papillary carcinoma of the thyroid", "predict": "A:Follicular carcinoma of the thyroid"}
+{"label": "A:Methadone", "predict": "D:Loperamide"}
+{"label": "C:Renin", "predict": "D:Vasoactive intestinal peptide"}
+{"label": "A:Raynaud's phenomenon", "predict": "B:Myocardial infarction"}
+{"label": "D:Recommend additional serologic testing for parvovirus B19", "predict": "A:Reassure and recommend vaccination against rubella postpartum"}
+{"label": "C:Trichomonal vaginitis", "predict": "B:Bacterial vaginosis"}
+{"label": "D:6th pharyngeal arch", "predict": "A:1st pharyngeal arch"}
+{"label": "D:Increased adenylate cyclase activity", "predict": "A:Decreased leukotriene activity"}
+{"label": "A:Cladribine", "predict": "B:Fludarabine"}
+{"label": "D:Urine antigen test", "predict": "C:Sputum culture"}
+{"label": "D:Pseudomonas keratitis", "predict": "A:Angle-closure glaucoma"}
+{"label": "D:Valley fever", "predict": "C:Blastomycosis"}
+{"label": "B:Exchange transfusion", "predict": "C:Heparin"}
+{"label": "D:Polymerase chain reaction for viral genes", "predict": "C:Fluorescent treponemal antibody absorption test"}
+{"label": "D:Anti-HEV IgM", "predict": "A:HBsAg"}
+{"label": "A:Inflammation and edema", "predict": "C:Neoplastic growth"}
+{"label": "C:Accumulation of fluid in the pericardial space", "predict": "B:Occlusion of a coronary artery"}
+{"label": "B:Hydrochlorothiazide", "predict": "C:Renal tubular acidosis type II"}
+{"label": "C:It is inhibited by protein kinase A activity", "predict": "D:It is inhibited by AMP"}
+{"label": "C:Bupropion", "predict": "C:Bupropion"}
+{"label": "A:Hematopoietic cell transplantation", "predict": "B:Intravenous immune globulin"}
+{"label": "D:Autoantibody-mediated platelet activation", "predict": "C:Excess circulating thrombin"}
+{"label": "D:Integration of foreign DNA into host genome\n\"", "predict": "B:Intracellular accumulation of misfolded protein"}
+{"label": "C:HIV and HCV testing", "predict": "A:Serum factor VIII levels and von Willebrand factor activity"}
+{"label": "B:Pseudomonas", "predict": "B:Pseudomonas"}
+{"label": "C:Reassurance and counseling on positioning", "predict": "B:Obtain abdominal ultrasound"}
+{"label": "D:Left cord hemisection", "predict": "B:Posterior cord lesion"}
+{"label": "A:PSA", "predict": "C:Abdominal ultrasound"}
+{"label": "A:Pericardiocentesis", "predict": "D:Insert chest tube"}
+{"label": "C:Chronic obstructive pulmonary disease", "predict": "C:Chronic obstructive pulmonary disease"}
+{"label": "A:Wrap the intestines in a sterile bowel bag", "predict": "B:Transfer the newborn to the NICU"}
+{"label": "C:Upregulation of hepcidin", "predict": "D:↑ reticulocyte count"}
+{"label": "B:Add fluticasone daily", "predict": "C:Add salmeterol twice daily"}
+{"label": "D:Struma ovarii", "predict": "A:Meigs syndrome"}
+{"label": "A:Autosomal dominant", "predict": "A:Autosomal dominant"}
+{"label": "D:Chronic obstructive bronchitis", "predict": "C:Pulmonary embolus"}
+{"label": "B:The drug caused uncoupling of the electron transport chain and oxidative phosphorylation.", "predict": "D:The drug has stimulated the hypothalamic temperature center to produce hyperthermia."}
+{"label": "B:Rough endoplasmic reticulum", "predict": "A:Lysosomes"}
+{"label": "C:Administer ulipristal acetate", "predict": "A:Insert copper-containing intra-uterine device"}
+{"label": "A:Lamotrigine", "predict": "B:Valproate"}
+{"label": "D:Pancreas divisum", "predict": "C:Intestinal malrotation"}
+{"label": "A:Seizures due to hypocalcemia", "predict": "D:Increased phenylalanine in the blood"}
+{"label": "A:Mevalonate", "predict": "D:High-density lipoprotein"}
+{"label": "B:Acetylcholine receptor", "predict": "D:GABA"}
+{"label": "B:Release of prostaglandins", "predict": "A:Bile deposition in the dermis"}
+{"label": "A:Sofosbuvir and ledipasvir therapy", "predict": "A:Sofosbuvir and ledipasvir therapy"}
+{"label": "C:Parietal cells", "predict": "C:Parietal cells"}
+{"label": "C:ADH resistance in the renal collecting ducts", "predict": "B:Decreased production of ADH"}
+{"label": "B:Celiac disease", "predict": "B:Celiac disease"}
+{"label": "A:Inpatient treatment with intravenous ciprofloxacin", "predict": "A:Inpatient treatment with intravenous ciprofloxacin"}
+{"label": "A:0.9% saline IV", "predict": "C:5% dextrose IV with 0.45% saline IV"}
+{"label": "D:Enterotoxigenic Escherichia coli", "predict": "D:Enterotoxigenic Escherichia coli"}
+{"label": "D:If the sensitivity of this screening test were decreased, the statistical power would decrease.", "predict": "A:Repeating the study would have no effect on the statistical power of the screening test."}
+{"label": "C:Creates pores in the cell membrane", "predict": "D:Induces the alternative complement pathway"}
+{"label": "A:Inadvertent surgical removal of parathyroid glands", "predict": "C:Chronic hypomagnesemia"}
+{"label": "C:Iron supplementation", "predict": "C:Iron supplementation"}
+{"label": "B:Protein C concentrate", "predict": "D:Tranexamic acid"}
+{"label": "B:Long face and large everted ears", "predict": "D:Thin upper lip and receding chin"}
+{"label": "C:Metoprolol", "predict": "C:Metoprolol"}
+{"label": "A:Increased alveolar dead space due to absent perfusion of certain alveoli", "predict": "D:Decreased V/Q due to bronchial obstruction"}
+{"label": "D:Protein deposition", "predict": "D:Protein deposition"}
+{"label": "C:A small region of red, velvet-like mucosa in the lower esophagus", "predict": "B:Metaplasia in the upper esophagus"}
+{"label": "C:Refuse the procedure because it violates the ethical principle of autonomy", "predict": "A:Schedule the patient for the requested surgery"}
+{"label": "B:Inhibit phagocytosis", "predict": "B:Inhibit phagocytosis"}
+{"label": "B:Glycosidic bonds", "predict": "B:Glycosidic bonds"}
+{"label": "A:Oral acyclovir", "predict": "B:Oral cephalexin"}
+{"label": "D:Surgical gastropexy", "predict": "D:Surgical gastropexy"}
+{"label": "A:Distributive shock with warm skin", "predict": "B:Hypovolemic shock with warm skin"}
+{"label": "B:Head MRI", "predict": "C:Lumbar puncture"}
+{"label": "A:Intravenous thiamine", "predict": "A:Intravenous thiamine"}
+{"label": "C:Trichomonas vaginalis", "predict": "C:Trichomonas vaginalis"}
+{"label": "B:Acetylcholine", "predict": "C:Dopamine"}
+{"label": "C:Atropine and pralidoxime", "predict": "D:Inhaled albuterol and oxygen"}
+{"label": "C:Endochondral ossification", "predict": "C:Endochondral ossification"}
+{"label": "A:HER2", "predict": "A:HER2"}
+{"label": "C:Na+/Cl- cotransporter in the membranes of epithelial cells in the distal convoluted tubule", "predict": "D:Na+/K+/2Cl- transporters in the membranes of epithelial cells in the ascending loop of Henle"}
+{"label": "A:Itraconazole", "predict": "C:Topical clindamycin"}
+{"label": "D:Squeezing the nostrils manually for 10 minutes with the head elevated", "predict": "A:Anterior packing and topical antibiotics"}
+{"label": "C:Infection", "predict": "C:Infection"}
+{"label": "C:Projection", "predict": "C:Projection"}
+{"label": "B:Chikungunya virus", "predict": "C:Dengue virus"}
+{"label": "C:Accept the patient's wishes and ensure he receives appropriate care.", "predict": "C:Accept the patient's wishes and ensure he receives appropriate care."}
+{"label": "B:Compression ultrasonography", "predict": "A:CT pulmonary angiography"}
+{"label": "A:Headache and tinnitus", "predict": "D:Hypothyroidism and phototoxicity"}
+{"label": "C:Carotid baroreceptor firing activity", "predict": "D:Cardiac inotropy"}
+{"label": "D:Emergency open surgical repair", "predict": "C:Elective open surgical repair"}
+{"label": "B:Recurrent laryngeal nerve injury", "predict": "A:Internal laryngeal nerve injury"}
+{"label": "B:Isolated gonadotropin-releasing hormone (GnRH) deficiency", "predict": "A:Expansion of a CTG trinucleotide repeat"}
+{"label": "D:Phosphodiesterase inhibitor", "predict": "D:Phosphodiesterase inhibitor"}
+{"label": "B:D-glutamate capsule", "predict": "A:Cultured on charcoal and yeast"}
+{"label": "B:Staphylococcus aureus", "predict": "B:Staphylococcus aureus"}
+{"label": "D:E", "predict": "A:A"}
+{"label": "C:Posterior cerebral artery", "predict": "D:Basilar artery"}
+{"label": "B:Breastfeeding jaundice", "predict": "A:Breast milk jaundice"}
+{"label": "B:It is a diagnosis of exclusion", "predict": "B:It is a diagnosis of exclusion"}
+{"label": "C:Sympathetic nervous system activation", "predict": "C:Sympathetic nervous system activation"}
+{"label": "D:Surgical pinning of the right hip", "predict": "B:Intra-articular corticosteroid injection of the right hip joint"}
+{"label": "A:Leydig cell tumor", "predict": "A:Leydig cell tumor"}
+{"label": "C:Nocturnal penile tumescence testing", "predict": "B:Penile prosthesis insertion"}
+{"label": "B:Amoxicillin-clavulanic acid", "predict": "B:Amoxicillin-clavulanic acid"}
+{"label": "A:Oral prednisone", "predict": "D:Nebulized N-acetylcysteine"}
+{"label": "B:Borderline personality disorder", "predict": "C:Normal grief response"}
+{"label": "C:Papillary necrosis", "predict": "B:Chronic pyelonephritis"}
+{"label": "B:Excess weight", "predict": "B:Excess weight"}
+{"label": "D:Negative selection", "predict": "A:B-cell maturation"}
+{"label": "A:μ, κ, and ẟ receptor antagonist", "predict": "A:μ, κ, and ẟ receptor antagonist"}
+{"label": "A:Sarcoidosis", "predict": "B:Pulmonary tuberculosis"}
+{"label": "A:CN X", "predict": "CN IX"}
+{"label": "C:Reidel thyroiditis", "predict": "C:Reidel thyroiditis"}
+{"label": "C:Principal cells; aldosterone", "predict": "D:Principal cells; spironolactone"}
+{"label": "C:HSV-1", "predict": "C:HSV-1"}
+{"label": "B:Respect the patient's prior wishes and do not resuscitate", "predict": "B:Respect the patient's prior wishes and do not resuscitate"}
+{"label": "D:Synchronized cardioversion", "predict": "A:Coronary angiogram"}
+{"label": "C:Spherocytes", "predict": "A:Hypersegmented neutrophils"}
+{"label": "A:Elbow flexion", "predict": "D:Wrist extension"}
+{"label": "C:Shellfish", "predict": "D:Acetaminophen overdose"}
+{"label": "C:Arterial emboli", "predict": "C:Arterial emboli"}
+{"label": "B:Hypokalemia", "predict": "C:XY karyotype"}
+{"label": "A:Increase in false negative test results", "predict": "A:Increase in false negative test results"}
+{"label": "B:Increases levels of fetal hemoglobin (HgbF)", "predict": "C:Decreases levels of HgbS"}
+{"label": "C:Potassium", "predict": "D:Rifaximin"}
+{"label": "C:Hair tourniquet syndrome", "predict": "C:Hair tourniquet syndrome"}
+{"label": "D:Omeprazole", "predict": "A:Budesonide"}
+{"label": "B:Dexamethasome, racemic epinephrine and observation for 4 hours; discharge if stridor remits", "predict": "A:Humidified oxygen and dexamethasone; discharge if the patient improves"}
+{"label": "C:Conversion of a protein from an a-helix to a ß-pleated form, which resists degradation.", "predict": "D:Frontotemporal atrophy and the accumulation of intracellular, aggregated tau protein."}
+{"label": "A:Anti-Sjögren's syndrome type B (SS-B) antibody", "predict": "D:Anti-Scl-70 antibodies"}
+{"label": "C:Tiotropium", "predict": "C:Tiotropium"}
+{"label": "C:Impaired migration of GnRH neurons", "predict": "C:Impaired migration of GnRH neurons"}
+{"label": "A:Inform the patient that romantic relationships with current patients are unethical.", "predict": "A:Inform the patient that romantic relationships with current patients are unethical."}
+{"label": "C:It consists of a largely circumscribed granuloma with epithelioid cells with Langhans cells.", "predict": "C:It consists of a largely circumscribed granuloma with epithelioid cells with Langhans cells."}
+{"label": "C:Phosphoinositol system", "predict": "D:Tyrosine kinase system"}
+{"label": "A:Monochorionic-diamniotic monozygotic", "predict": "A:Monochorionic-diamniotic monozygotic"}
+{"label": "A:Deep venous thrombosis", "predict": "C:Increased bleeding"}
+{"label": "C:Decreased antidiuretic hormone secretion", "predict": "C:Decreased antidiuretic hormone secretion"}
+{"label": "D:Sensory loss", "predict": "D:Sensory loss"}
+{"label": "A:pH = 7.5, Pco2 = 50 mm Hg, HCO32- = 38 mEq/L", "predict": "C:pH = 7.5, Pco2 = 34 mm Hg, HCO32- = 38 mEq/L"}
+{"label": "C:Retrograde cytoskeletal motor protein", "predict": "C:Retrograde cytoskeletal motor protein"}
+{"label": "B:Inflammation of the gallbladder wall", "predict": "C:Obstruction of the common bile duct"}
+{"label": "D:Adaptation in binding proteins", "predict": "B:Ability to cleave β-lactam rings"}
+{"label": "B:Surgical excision", "predict": "B:Surgical excision"}
+{"label": "B:25/5 mmHg", "predict": "C:10/0 mmHg"}
+{"label": "B:Tympanostomy tube insertion", "predict": "B:Tympanostomy tube insertion"}
+{"label": "B:Citrate", "predict": "B:Citrate"}
+{"label": "A:Hallucinations", "predict": "A:Hallucinations"}
+{"label": "D:Cefepime and levofloxacin", "predict": "B:Ertapenem"}
+{"label": "B:Schizoaffective disorder", "predict": "A:Brief psychotic disorder"}
+{"label": "D:Vascular dementia", "predict": "B:Lewy body dementia"}
+{"label": "A:\"\"\"Let's talk about what makes it difficult for you to take your medications.\"\"\"", "predict": "A:Let\\'s talk about what makes it difficult for you to take your medications."}
+{"label": "A:Ultrasonography of the neck", "predict": "B:Echocardiography"}
+{"label": "B:Discontinue methimazole, start propylthiouracil", "predict": "B:Discontinue methimazole, start propylthiouracil"}
+{"label": "D:Spinal stenosis", "predict": "C:Musculoskeletal strain"}
+{"label": "A:Anaphylactic transfusion reactions", "predict": "D:Disseminated tuberculosis"}
+{"label": "D:Granulomas with giant cells", "predict": "C:Needle-shaped, negatively birefringent crystal deposits"}
+{"label": "D:Change lisinopril to losartan", "predict": "D:Change lisinopril to losartan"}
+{"label": "A:Mu receptor agonist", "predict": "B:Nicotinic acetylcholine receptor agonist"}
+{"label": "B:Thrombotic thrombocytopenic purpura", "predict": "C:Hemolytic uremic syndrome"}
+{"label": "C:Exploratory laparotomy", "predict": "C:Exploratory laparotomy"}
+{"label": "B:Muscle relaxation time: increased, cytosolic calcium concentration: increased", "predict": "A:Muscle relaxation time: increased, cytosolic calcium concentration: increased"}
+{"label": "A:Percutaneous coronary intervention", "predict": "B:Intravenous alteplase"}
+{"label": "C:History of abdominal surgery", "predict": "C:History of abdominal surgery"}
+{"label": "D:Continuous mucosal damage", "predict": "C:Transmural inflammation"}
+{"label": "B:T-cell receptor signaling", "predict": "C:Microtubule polymerization"}
+{"label": "D:Presence of smudge cells", "predict": "C:Presence of hairy cells"}
+{"label": "C:Sodium bicarbonate", "predict": "C:Sodium bicarbonate"}
+{"label": "A:Thick and thin blood smear", "predict": "C:Sickle cell test"}
+{"label": "C:Streptomycin", "predict": "B:Imipenem"}
+{"label": "B:Central retinal artery occlusion", "predict": "B:Central retinal artery occlusion"}
+{"label": "A:Patent foramen ovale", "predict": "D:Carotid artery dissection"}
+{"label": "D:Replace potassium intravenously", "predict": "C:Start IV insulin infusion"}
+{"label": "B:Fluphenazine", "predict": "B:Fluphenazine"}
+{"label": "A:Membrano proliferative glomerulonephritis (MPGN)", "predict": "A:Membrano proliferative glomerulonephritis (MPGN)"}
+{"label": "B:S3 gallop", "predict": "B:S3 gallop"}
+{"label": "C:It reflects a smaller sample size", "predict": "A:It indicates decreased external validity"}
+{"label": "D:Centrilobular hepatocytes", "predict": "C:Hepatic Kupffer cells"}
+{"label": "A:Propofol", "predict": "A:Propofol"}
+{"label": "A:Inhibits cell wall synthesis", "predict": "A:Inhibits cell wall synthesis"}
+{"label": "D:Excess collagen deposition in the extracellular matrix of the lung", "predict": "B:Bronchial hyperresponsiveness and obstruction"}
+{"label": "D:Clomipramine", "predict": "B:Sertraline"}
+{"label": "A:The association is not statistically significant, and low education is not a risk factor.", "predict": "A:The association is not statistically significant, and low education is not a risk factor."}
+{"label": "B:Neural tube defect", "predict": "A:Partial molar pregnancy"}
+{"label": "C:D-dimer", "predict": "B:V/Q scan"}
+{"label": "B:DIP has more neutrophils and fewer monocytes than PIP", "predict": "A:DIP has fewer neutrophils and more monocytes than PIP"}
+{"label": "C:Temporomandibular joint dysfunction", "predict": "A:Migraine headache"}
+{"label": "D:Atelectasis", "predict": "A:Asthma exacerbation"}
+{"label": "D:CT scan of the head", "predict": "C:Duplex ultrasonography of the neck"}
+{"label": "D:Continue antitubercular therapy and antiretroviral therapy without any change", "predict": "C:Change antitubercular therapy to isoniazid-rifampin-ethambutol-streptomycin"}
+{"label": "B:Pyriform sinus fistula", "predict": "B:Pyriform sinus fistula"}
+{"label": "A:Bladder tumor", "predict": "D:Urinary tract infection"}
+{"label": "A:Decreased glucose uptake by adipocytes", "predict": "B:Decreased activity of hormone sensitive lipase"}
+{"label": "A:Endoscopic retrograde cholangiopancreatography (ERCP)", "predict": "A:Endoscopic retrograde cholangiopancreatography (ERCP)"}
+{"label": "B:Eplerenone", "predict": "A:Spironolactone"}
+{"label": "A:1 month of associated symptoms ", "predict": "B:Disruptive events lasting > 30 minutes on 2 separate occasions"}
+{"label": "B:Involuntary hospitalization after informing the parents", "predict": "B:Involuntary hospitalization after informing the parents"}
+{"label": "A:Bacillary angiomatosis", "predict": "C:Brucellosis"}
+{"label": "C:Plague", "predict": "C:Plague"}
+{"label": "B:Molluscum contagiosum", "predict": "B:Molluscum contagiosum"}
+{"label": "B:Reaction formation", "predict": "A:Repression"}
+{"label": "A:Dietary changes", "predict": "C:Increased renal clearance"}
+{"label": "C:Heat stroke", "predict": "C:Heat stroke"}
+{"label": "B:Gynecomastia", "predict": "C:Jaundice"}
+{"label": "A:Clear cell adenocarcinoma", "predict": "A:Clear cell adenocarcinoma"}
+{"label": "A:Lowering citalopram dose", "predict": "C:Switch to fluoxetine"}
+{"label": "B:Fludarabine, cyclophosphamide, rituximab", "predict": "B:Fludarabine, cyclophosphamide, rituximab"}
+{"label": "B:Left circumflex artery", "predict": "C:Left coronary artery"}
+{"label": "D:Thoracic aortic aneurysm", "predict": "A:Atrioventricular block"}
+{"label": "A:Primary biliary cirrhosis", "predict": "A:Primary biliary cirrhosis"}
+{"label": "B:Dantrolene", "predict": "C:Intubation"}
+{"label": "A:Administration of oral ketorolac", "predict": "B:Perform joint aspiration"}
+{"label": "C:Pneumonia", "predict": "C:Pneumonia"}
+{"label": "C:Topical metronidazole", "predict": "C:Topical metronidazole"}
+{"label": "C:Increased right ventricular afterload", "predict": "C:Increased right ventricular afterload"}
+{"label": "B:Selective albuminuria", "predict": "B:Selective albuminuria"}
+{"label": "B:Notochord", "predict": "C:Neural tube"}
+{"label": "D:Ruptured ovarian cyst", "predict": "A:Ectopic pregnancy"}
+{"label": "B:Increased peak tricuspid regurgitation", "predict": "C:Hypokinetic wall of the left ventricle"}
+{"label": "A:Fluoxetine", "predict": "C:Buspirone"}
+{"label": "D:Well-defined cystic lesion with peritrabecular fibrosis", "predict": "A:Expansile lytic lesion with thin sclerotic margins"}
+{"label": "A:Brief psychotic disorder", "predict": "C:Schizophrenia"}
+{"label": "C:Age", "predict": "B:PR interval"}
+{"label": "D:Inhibition of the 60S ribosomal subunit, resulting in decreased protein synthesis in gastrointestinal mucosal cells", "predict": "A:Depolymerization of actin filaments in gastrointestinal mucosal cells, leading to mucosal cell death"}
+{"label": "D:Wilson disease", "predict": "C:Systemic lupus erythematosus"}
+{"label": "D:Tracheobronchial rupture", "predict": "B:Spontaneous pneumothorax"}
+{"label": "D:Cardiac tamponade", "predict": "C:Infective endocarditis"}
+{"label": "B:Lactotrophs", "predict": "D:Gonadotrophs"}
+{"label": "D:Ventricular septal defect", "predict": "C:Sacral agenesis"}
+{"label": "A:Support pessary", "predict": "A:Support pessary"}
+{"label": "D:Infundibulopelvic ligament", "predict": "B:Ovarian ligament"}
+{"label": "C:Smudge cells", "predict": "A:Ringed sideroblasts"}
+{"label": "C:Chlamydia trachomatis", "predict": "C:Chlamydia trachomatis"}
+{"label": "A:Inosine monophosphate dehydrogenase", "predict": "C:DNA gyrase"}
+{"label": "C:Mismatch repair", "predict": "C:Mismatch repair"}
+{"label": "C:Gastric peptic ulcer", "predict": "B:Pancreatitis"}
+{"label": "B:Prevent excess anterior translation of the tibia relative to the femur", "predict": "C:Resist excess valgus force on the knee"}
+{"label": "C:Oxidization of Fe2+ to Fe3+", "predict": "B:Closure of the ductus arteriosus"}
+{"label": "B:Sodium hypochlorite", "predict": "B:Sodium hypochlorite"}
+{"label": "B:Pseudocyesis", "predict": "C:Pregnancy"}
+{"label": "C:Alcohol use disorder", "predict": "D:Spirochete infection"}
+{"label": "D:Conjugation with a protein carrier provides effective protection to infants", "predict": "A:Conjugation with a protein carrier generates IgG2 dominant antibody responses"}
+{"label": "D:Influx of calcium", "predict": "D:Influx of calcium"}
+{"label": "A:Rifampin alters normal gastrointestinal flora, which leads to a decrease in the enterohepatic circulation of estrogens.", "predict": "D:Rifampin directly interferes with intestinal absorption of estrogens."}
+{"label": "A:Dermatofibroma", "predict": "A:Dermatofibroma"}
+{"label": "A:Coronary artery aneurysm", "predict": "D:Retinopathy"}
+{"label": "B:Marijuana", "predict": "C:Cocaine"}
+{"label": "D:Superior mesenteric artery", "predict": "B:Inferior mesenteric artery"}
+{"label": "C:The observed number of deaths divided by the expected number of deaths", "predict": "C:The observed number of deaths divided by the expected number of deaths"}
+{"label": "C:Hypoxanthine-guanine phosphoribosyl transferase of the purine metabolism pathway", "predict": "C:Hypoxanthine-guanine phosphoribosyl transferase of the purine metabolism pathway"}
+{"label": "D:Zinc", "predict": "D:Zinc"}
+{"label": "A:Repeat antibody screening at 28 weeks. Administer anti-D immunoglobulin at 28 weeks and after delivery if the newborn is Rh(D) positive.", "predict": "C:No further screening is needed. Administer anti-D immunoglobulin shortly after delivery"}
+{"label": "C:Parasitic infection", "predict": "B:Hypertensive changes"}
+{"label": "A:Decreased complement levels", "predict": "C:Increased anti-cyclic citrullinated peptide antibodies"}
+{"label": "C:Food-borne illness", "predict": "D:Urinary tract infection"}
+{"label": "C:Inhibition of vitamin K-dependent clotting factors", "predict": "C:Inhibition of vitamin K-dependent clotting factors"}
+{"label": "A:Benztropine", "predict": "D:Baclofen"}
+{"label": "D:Minimal change disease", "predict": "C:Focal segmental glomerulosclerosis"}
+{"label": "B:Mutation of DNA gyrase", "predict": "B:Mutation of DNA gyrase"}
+{"label": "C:Diazepam", "predict": "C:Diazepam"}
+{"label": "D:Inhibition of lipase", "predict": "A:Stimulation of monoamine neurotransmitter release"}
+{"label": "C:Triamterene", "predict": "D:Acetazolamide"}
+{"label": "D:Dog bite", "predict": "D:Dog bite"}
+{"label": "C:Presence of immunoglobulin bands on cerebrospinal fluid immunofixation", "predict": "C:Presence of immunoglobulin bands on cerebrospinal fluid immunofixation"}
+{"label": "A:Case-control study", "predict": "A:Case-control study"}
+{"label": "D:Sodium bicarbonate", "predict": "D:Sodium bicarbonate"}
+{"label": "B:Low IgA, normal IgG, and IgM", "predict": "C:High IgE, normal IgA, and IgG"}
+{"label": "D:Elevated serum creatine kinase", "predict": "A:Low serum potassium"}
+{"label": "C:Elevate posterior fornix", "predict": "D:Red blood cell transfusion"}
+{"label": "C:Insulin resistance", "predict": "A:Autoimmune liver damage"}
+{"label": "D:Runs posteriorly from the medial femoral condyle", "predict": "C:Runs posteriorly from the lateral femoral condyle"}
+{"label": "D:Increased Aa gradient, decreased surface area for diffusion, increased diffusion distance", "predict": "C:Increased Aa gradient, normal surface area for diffusion, increased diffusion distance"}
+{"label": "B:Babesiosis", "predict": "A:Malaria"}
+{"label": "D:Atrial myxoma", "predict": "C:Non-bacterial thrombotic endocarditis"}
+{"label": "B:Classical Hodgkin’s lymphoma (HL)", "predict": "C:HIV lymphadenopathy"}
+{"label": "A:Bethanechol and intermittent straight catheterization", "predict": "A:Bethanechol and intermittent straight catheterization"}
+{"label": "B:Echocardiogram", "predict": "C:Stress test"}
+{"label": "A:Indomethacin", "predict": "A:Indomethacin"}
+{"label": "A:Boys are more commonly affected than girls", "predict": "D:Typical age of onset is 3-5 years of age"}
+{"label": "A:Chlorine-based solution", "predict": "D:Quaternary amine-based solution"}
+{"label": "A:Alanine", "predict": "D:Fructose 2,6-bisphosphate"}
+{"label": "D:Dimercaptosuccinic acid (DMSA), also known as succimer", "predict": "C:Penicillamine"}
+{"label": "A:Femoral neck fracture", "predict": "D:Proximal phalanx fracture"}
+{"label": "A:Alveolar hypoventilation", "predict": "A:Alveolar hypoventilation"}
+{"label": "D:Ask the son to step out so you can speak with the patient alone", "predict": "A:Discuss with the son the challenges of having a parent with dementia"}
+{"label": "B:Increased activity of D cells", "predict": "D:Increased activity of I cells"}
+{"label": "B:Capsular invasion", "predict": "C:Infiltration of atypical lymphoid tissue"}
+{"label": "B:Tumor stage", "predict": "B:Tumor stage"}
+{"label": "B:Adenosine deaminase deficiency", "predict": "D:Defect in BTK gene"}
+{"label": "A:ATP7A", "predict": "A:ATP7A"}
+{"label": "A:Gonadectomy", "predict": "A:Gonadectomy"}
+{"label": "C:Gastritis", "predict": "D:Increased pulse rate"}
+{"label": "C:Decreased iron-binding capacity", "predict": "C:Decreased iron-binding capacity"}
+{"label": "C:Measure serum drug concentration", "predict": "A:Perform hemodialysis"}
+{"label": "A:Acute calculous cholecystitis", "predict": "A:Acute calculous cholecystitis"}
+{"label": "A:Muellerian agenesis", "predict": "A:Muellerian agenesis"}
+{"label": "B:Gastrohepatic ligament", "predict": "B:Gastrohepatic ligament"}
+{"label": "D:Perforated gastric peptic ulcer", "predict": "C:Pancreatitis"}
+{"label": "D:Begin warfarin and heparin", "predict": "B:Begin clopidogrel"}
+{"label": "C:Case-control", "predict": "A:Meta-analysis"}
+{"label": "C:Extending fine striations", "predict": "A:‘Popcorn’ pattern"}
+{"label": "A:Generalized anxiety disorder", "predict": "A:Generalized anxiety disorder"}
+{"label": "A:Systolic murmur that increases with hand clenching", "predict": "B:Systolic murmur that increases with forced exhalation against a closed glottis"}
+{"label": "D:Blunting of costophrenic angle", "predict": "C:Widened intercostal spaces"}
+{"label": "D:Ventral thalamus", "predict": "C:Basal pons"}
+{"label": "C:Von Willebrand disease", "predict": "B:Immune thrombocytopenic purpura"}
+{"label": "B:Flexor pollicis longus tendon", "predict": "D:Ulnar nerve"}
+{"label": "A:Imbalance of fluid secretion and resorption by tunica vaginalis", "predict": "A:Imbalance of fluid secretion and resorption by tunica vaginalis"}
+{"label": "A:Emergent fasciotomy", "predict": "A:Emergent fasciotomy"}
+{"label": "B:Varicella", "predict": "D:Erythema infectiosum"}
+{"label": "B:Conservative management with IV fluid hydration and observation", "predict": "A:Cyanoacrylate injection and ligation with banding, IV fluid hydration, and NPO"}
+{"label": "D:Its activity depends on pH and is greatly reduced in the presence of organic matter", "predict": "A:Bactericidal at low concentrations"}
+{"label": "B:Tinea cruris", "predict": "B:Tinea cruris"}
+{"label": "B:The baby’s oocytes are arrested in prophase", "predict": "A:The baby has not yet developed oocytes"}
+{"label": "D:Folic acid supplementation", "predict": "D:Folic acid supplementation"}
+{"label": "A:Sitagliptin", "predict": "A:Sitagliptin"}
+{"label": "C:Airway remodeling", "predict": "C:Airway remodeling"}
+{"label": "A:Platelet activating factor", "predict": "D:Leukotriene D4"}
+{"label": "A:CT scan of the head", "predict": "D:Rule out medical conditions"}
+{"label": "B:Factorial design study", "predict": "A:Parallel study"}
+{"label": "B:Iodine deficiency", "predict": "C:Presence of embryological remnant"}
+{"label": "D:Acute hepatitis B", "predict": "A:Past hepatitis B infection"}
+{"label": "B:Antibodies directed against phospholipids", "predict": "D:Vitamin K deficiency"}
+{"label": "D:Prednisone", "predict": "D:Prednisone"}
+{"label": "C:Streptococcus pneumoniae", "predict": "A:Staphylococcus aureus"}
+{"label": "B:Complement inhibitor deficiency", "predict": "C:Drug-induced bradykinin excess"}
+{"label": "C:Functional residual capacity", "predict": "C:Functional residual capacity"}
+{"label": "A:Ornithine and carbamoyl phosphate to citrulline", "predict": "B:Orotic acid to uridine monophosphate"}
+{"label": "A:Germ cells", "predict": "B:Chorionic epithelial cells"}
+{"label": "A:Organic acids competing with urate for tubular secretion", "predict": "A:Organic acids competing with urate for tubular secretion"}
+{"label": "C:Treat with three weekly injections of penicillin, obtain titers in 6 months", "predict": "B:Treat with three weekly injections of penicillin, obtain titers in 3 months"}
+{"label": "A:Cholelithiasis", "predict": "C:Hepatotoxicity"}
+{"label": "B:3 months prior to conception, begin a restricted diet to lower phenylalanine levels to below 6 mg/dL", "predict": "A:Improved PKU treatment will decrease the risks of spontaneous abortion and intrauterine fetal death"}
+{"label": "C:Aortic regurgitation", "predict": "B:Malabsorption"}
+{"label": "B:Isosorbide dinitrate", "predict": "D:Propranolol"}
+{"label": "A:Bed rest and activity limitation", "predict": "D:Prednisone"}
+{"label": "B:Osmotic diuresis", "predict": "C:Excess production of aldosterone"}
+{"label": "D:Peroxisome proliferator-activated receptor gamma", "predict": "D:Peroxisome proliferator-activated receptor gamma"}
+{"label": "D:Anti-glomerular basement membrane antibodies", "predict": "B:Anti-neutrophil antibodies"}
+{"label": "A:Major depressive disorder", "predict": "A:Major depressive disorder"}
+{"label": "A:Pyridostigmine", "predict": "B:Physostigmine"}
+{"label": "B:International normalized ratio", "predict": "D:Serum drug levels"}
+{"label": "C:P/D1 cells", "predict": "A:D cells"}
+{"label": "C:Negative predictive value", "predict": "D:Test specificity"}
+{"label": "D:CA 19-9", "predict": "C:CA 27-29"}
+{"label": "D:Continue normal breast feeding", "predict": "D:Continue normal breast feeding"}
+{"label": "C:Urethral hypermobility", "predict": "D:Vescicovaginal fistula"}
+{"label": "B:IV fluids and mannitol", "predict": "D:Supportive therapy and observation"}
+{"label": "C:Proximal tubule", "predict": "C:Proximal tubule"}
+{"label": "A:Absence of UDP-glucuronosyltransferase-1A1", "predict": "D:Deficiency in glucocerebrosidase"}
+{"label": "A:B", "predict": "A:B"}
+{"label": "C:Malabsorption of fatty acids", "predict": "D:High urine pH"}
+{"label": "C:Ichthyosis vulgaris", "predict": "A:Psoriasis"}
+{"label": "C:Cervical trauma", "predict": "D:Premature separation of the placenta"}
+{"label": "A:Administer IV fluids and insulin", "predict": "A:Administer IV fluids and insulin"}
+{"label": "B:Late systolic crescendo murmur at the apex with mid-systolic click", "predict": "A:Holosystolic, high-pitched blowing murmur at the lower left sternal border"}
+{"label": "B:They occur only during non-REM sleep", "predict": "D:They are associated with later development of a mood disorder"}
+{"label": "C:Hyperpermeability of superficial dermal microvasculature", "predict": "C:Hyperpermeability of superficial dermal microvasculature"}
+{"label": "B:Secondary hyperparathyroidism", "predict": "B:Secondary hyperparathyroidism"}
+{"label": "D:Amlodipine", "predict": "D:Amlodipine"}
+{"label": "A:α-ketoglutarate dehydrogenase", "predict": "D:Carbonic anhydrase"}
+{"label": "B:Decreased progesterone", "predict": "D:Increased progesterone"}
+{"label": "B:Interventricular foramen", "predict": "D:Lateral apertures"}
+{"label": "D:Vitamin K deficiency", "predict": "A:Group B streptococcus (GBS) infection"}
+{"label": "C:Mitral valve regurgitation", "predict": "D:Minimal change disease"}
+{"label": "D:IV fluids and monitoring", "predict": "B:Amphotericin and 5-flucytosine"}
+{"label": "C:Nystatin", "predict": "C:Nystatin"}
+{"label": "D:Pyoverdine", "predict": "C:Toxin B"}
+{"label": "A:Cells staining positive for CD15 and CD30", "predict": "A:Cells staining positive for CD15 and CD30"}
+{"label": "C:Crown-rump length", "predict": "C:Crown-rump length"}
+{"label": "C:Elongated and thickened pylorus on abdominal ultrasound", "predict": "A:Dilated colon segment on abdominal x-ray"}
+{"label": "D:The child should be administered a single dose of oral azithromycin.", "predict": "D:The child should be administered a single dose of oral azithromycin."}
+{"label": "B:Cytogenetics", "predict": "C:Fever and neutropenia"}
+{"label": "B:Intravenous ciprofloxacin and vancomycin therapy", "predict": "B:Intravenous ciprofloxacin and vancomycin therapy"}
+{"label": "B:Metabolic alkalosis", "predict": "C:Respiratory acidosis"}
+{"label": "C:pol gene mutation", "predict": "D:Decreased viral replication"}
+{"label": "A:Alendronate", "predict": "B:Calcitonin"}
+{"label": "A:She fears not being able to escape similar situations.", "predict": "C:She requires only one fear or avoidance situation to meet criteria for this condition."}
+{"label": "C:Vagal stimulation", "predict": "D:Increased ventricular contractility"}
+{"label": "A:4%", "predict": "D:25%"}
+{"label": "A:Tearing of the middle meningeal artery", "predict": "D:Arteriovenous malformation"}
+{"label": "D:Reducing daily insulin dose", "predict": "C:Increasing daily insulin dose"}
+{"label": "A:Chlorine dioxide", "predict": "C:Povidone-iodine"}
+{"label": "B:Transient hypertrophic cardiomyopathy", "predict": "D:Mitral valve prolapse"}
+{"label": "B:Spinal metastasis", "predict": "C:Herniated disc"}
+{"label": "C:Modafinil", "predict": "C:Modafinil"}
+{"label": "A:Cooling the dialysate", "predict": "D:Steroid administration"}
+{"label": "B:Increased tryptophan intake", "predict": "C:Medication change"}
+{"label": "C:Methylprednisolone, plasmapheresis, and cyclophosphamide", "predict": "C:Methylprednisolone, plasmapheresis, and cyclophosphamide"}
+{"label": "A:Intracellular receptors", "predict": "C:cGMP pathway"}
+{"label": "C:IV steroids", "predict": "A:CT head"}
+{"label": "B:Blocks microtubule formation", "predict": "B:Blocks microtubule formation"}
+{"label": "B:Posterior urethral valves", "predict": "B:Posterior urethral valves"}
+{"label": "C:Filgrastim", "predict": "C:Filgrastim"}
+{"label": "C:Hyaline membranes lining the alveoli on lung biopsy", "predict": "A:Bilateral pleural effusions on lung ultrasound"}
+{"label": "B:Choledocholithiasis", "predict": "B:Choledocholithiasis"}
+{"label": "C:V/Q scan", "predict": "C:V/Q scan"}
+{"label": "B:Cyclophosphamide", "predict": "D:Etoposide"}
+{"label": "D:Currently menstruating", "predict": "C:Exposure to a patient with mengingococcemia"}
+{"label": "D:Group D streptococci", "predict": "B:Malignant colonic neoplasm"}
+{"label": "C:Sargramostim", "predict": "C:Sargramostim"}
+{"label": "B:Check serum electrolytes", "predict": "C:Perform CT scan of the head"}
+{"label": "D:Perform percutaneous drainage\n\"", "predict": "C:Perform endoscopic retrograde cholangiopancreatography"}
+{"label": "C:Add a sulfonylurea", "predict": "A:Start basal-bolus insulin"}
+{"label": "A:Alpha-Ketoglutarate + NAD+ + CoA <=> Succinyl-CoA + CO2 + NADH", "predict": "C:Isocitrate + NAD+ <=> Alpha-Ketoglutarate + CO2 + NADH"}
+{"label": "C:Treat and transfer the patient after she makes a written request", "predict": "C:Treat and transfer the patient after she makes a written request"}
+{"label": "C:Muscarinic antagonist", "predict": "D:Anticoagulant"}
+{"label": "D:Failure of paramesonephric duct development", "predict": "D:Failure of paramesonephric duct development"}
+{"label": "A:Elevated serum CA-125 level", "predict": "A:Elevated serum CA-125 level"}
+{"label": "B:Ultrasound", "predict": "C:Abdominal-pelvic CT scan"}
+{"label": "C:Propranolol", "predict": "C:Propranolol"}
+{"label": "B:Hypothesis testing cannot be performed", "predict": "A:Different interventions with 2 or more variables can be studied"}
+{"label": "C:Cell wall cross-linking inhibitor", "predict": "A:30S ribosome inhibitor"}
+{"label": "D:Pyrantel pamoate", "predict": "B:Ivermectin"}
+{"label": "A:Central fusion of the inferior poles of the kidneys ", "predict": "B:Genetic predisposition to essential hypertension"}
+{"label": "D:Impaired urine concentration ability", "predict": "A:Membranous glomerulonephritis"}
+{"label": "A:Inferior vena cava", "predict": "A:Inferior vena cava"}
+{"label": "B:250/25", "predict": "C:190/250"}
+{"label": "C:Paroxetine", "predict": "A:Low-dose prednisolone"}
+{"label": "C:He may work longer shifts", "predict": "A:He is already overcommitting and must reduce the number of hours"}
+{"label": "D:Increased norepinephrine at the sinoatrial node", "predict": "D:Increased norepinephrine at the sinoatrial node"}
+{"label": "C:Surgical resection", "predict": "C:Surgical resection"}
+{"label": "D:A Western blot will show increased HIF-1α compared to a normoxic control.", "predict": "A:A Northern blot will show increased HIF-1α, compared to a hypoxic control cell."}
+{"label": "D:Proteinuria", "predict": "D:Proteinuria"}
+{"label": "B:Relative protein intake", "predict": "C:Relative carbohydrate intake"}
+{"label": "B:Cell-free DNA testing", "predict": "D:Regular follow up appointments"}
+{"label": "D:Macrophage", "predict": "C:B lymphocytes"}
+{"label": "D:Factor XII", "predict": "D:Factor XII"}
+{"label": "C:Night blindness", "predict": "A:Carpopedal spasm"}
+{"label": "C:Type II pneumocytes", "predict": "D:Vascular smooth myocytes"}
+{"label": "C:Prolonged QT interval", "predict": "C:Prolonged QT interval"}
+{"label": "B:480 mg", "predict": "A:270 mg"}
+{"label": "A:Gastroenteritis", "predict": "D:Vesicular rash"}
+{"label": "B:Triazolam", "predict": "C:Diazepam"}
+{"label": "B:GI upset", "predict": "B:GI upset"}
+{"label": "D:Aortic valve stenosis", "predict": "C:Mitral valve stenosis"}
+{"label": "C:Increased production of nitric oxide", "predict": "C:Increased production of nitric oxide"}
+{"label": "C:“I can not help you due to the ethical principle of nonmaleficence.”", "predict": "A:“I can not help you due to the ethical principle of autonomy.”"}
+{"label": "D:IL-4", "predict": "D:IL-4"}
+{"label": "C:Duodenal atresia", "predict": "D:Posterior urethral valve"}
+{"label": "B:Beta-1 adrenergic receptor", "predict": "C:Beta-2 adrenergic receptor"}
+{"label": "B:Deferoxamine", "predict": "B:Deferoxamine"}
+{"label": "B:Meningocele", "predict": "D:Vaginal clear cell carcinoma"}
+{"label": "D:Ages 2 months, 6 months, and 12 months", "predict": "A:Ages 1 month, 4 months, and 9 months"}
+{"label": "A:CT angiogram", "predict": "A:CT angiogram"}
+{"label": "A:Antitoxin", "predict": "B:Neostigmine"}
+{"label": "B:Cystocele", "predict": "B:Cystocele"}
+{"label": "A:Crohn’s disease", "predict": "C:Pseudomembranous colitis"}
+{"label": "A:Cardiac tamponade", "predict": "C:Pulmonary embolism"}
+{"label": "C:Donepezil", "predict": "C:Donepezil"}
+{"label": "B:WBC/mm3 53,000; % PMN > 75%; Viscosity low", "predict": "C:WBC/mm3 160; % PMN < 20%; Viscosity high"}
+{"label": "A:Eosin-5-maleimide binding test", "predict": "B:Flow cytometry for CD55/CD59"}
+{"label": "D:Atrophy of the striatum", "predict": "C:Degeneration of the frontal and temporal lobes"}
+{"label": "D:Adenocarcinoma of the lung", "predict": "C:Squamous cell carcinoma of the lung"}
+{"label": "C:Stiffening of the aorta", "predict": "D:Aortic stenosis"}
+{"label": "D:Orchiopexy", "predict": "C:Orchiectomy"}
+{"label": "A:Urinalysis", "predict": "C:Blood culture"}
+{"label": "A:Pulmonary embolism", "predict": "C:Breast cancer"}
+{"label": "C:Fee-for-service may incentivize physicians to increase healthcare utilization irrespective of quality", "predict": "D:Fee-for-service poses the most amount of financial risk to physicians"}
+{"label": "A:Aspirin and heparin", "predict": "A:Aspirin and heparin"}
+{"label": "D:Androgen insensitivity", "predict": "A:5-α reductase deficiency"}
+{"label": "C:Waldenstrom’s macroglobulinemia", "predict": "A:IgM monoclonal gammopathy of undetermined significance (MGUS)"}
+{"label": "C:Hyperphosphorylated tau", "predict": "A:Alpha-synuclein"}
+{"label": "C:Hyperpigmentation of the liver", "predict": "C:Hyperpigmentation of the liver"}
+{"label": "C:X", "predict": "D:XII"}
+{"label": "A:gp120", "predict": "D:Reverse transcriptase"}
+{"label": "C:This mass will most likely decrease in size or disappear over time", "predict": "C:This mass will most likely decrease in size or disappear over time"}
+{"label": "B:Lumbar puncture", "predict": "B:Lumbar puncture"}
+{"label": "A:Inhibition of gonadotropin-releasing hormone release", "predict": "A:Inhibition of gonadotropin-releasing hormone release"}
+{"label": "B:Substance abuse", "predict": "D:Hepatic venous outflow obstruction"}
+{"label": "D:Moxifloxacin and admission to the medical floor", "predict": "A:Azithromycin and admission to the medical floor"}
+{"label": "B:Liquefactive necrosis", "predict": "C:Caseous necrosis"}
+{"label": "A:Throat culture", "predict": "B:Chest radiograph"}
+{"label": "B:Amniotic fluid entering the endocervical veins", "predict": "D:Systemic bacterial infection"}
+{"label": "D:Tartrate-resistant acid phosphatase", "predict": "C:Periodic acid-Schiff"}
+{"label": "C:Halothane", "predict": "D:Desflurane"}
+{"label": "C:Parietal cell destruction", "predict": "A:Mucosal cell hyperplasia"}
+{"label": "A:Hyperkalemia", "predict": "A:Hyperkalemia"}
+{"label": "D:Administer lactulose", "predict": "B:Paracentesis"}
+{"label": "A:Hyperparathyroidism", "predict": "C:Osteosarcoma"}
+{"label": "B:Increase in circulating fetal hemoglobin", "predict": "A:Inhibition of thrombocyte aggregation"}
+{"label": "D:Type IV hypersensitivity; CD4+ T cells", "predict": "A:Type I hypersensitivty; eosinophils"}
+{"label": "B:Adenomatous polyp", "predict": "B:Adenomatous polyp"}
+{"label": "C:Bacillus cereus infection", "predict": "A:Cryptosporidiosis"}
+{"label": "C:Histoplasmosis", "predict": "C:Histoplasmosis"}
+{"label": "A:Pregnancy success rate with donor oocytes is similar to patients with primary ovarian failure", "predict": "B:Administration of gonadotropins will increase the chances of conceiving"}
+{"label": "A:Perichondrium", "predict": "C:Osteoblasts"}
+{"label": "C:MRI of the brain and spine", "predict": "C:MRI of the brain and spine"}
+{"label": "C:Inhibition of primary active transport", "predict": "B:Reversible block of H2 receptors"}
+{"label": "B:Brown recluse spider", "predict": "D:Deer tick"}
+{"label": "D:Area postrema", "predict": "D:Area postrema"}
+{"label": "B:Urinalysis", "predict": "C:X-ray of the arm and shoulder"}
+{"label": "C:High BNP, high ADH, low sodium, low potassium", "predict": "B:High BNP, high ADH, normal sodium, low potassium"}
+{"label": "C:Urgent endoscopic retrograde cholangiopancreatography (ECRP)", "predict": "A:Urgent laparoscopic cholecystectomy"}
+{"label": "C:Neuroleptic malignant syndrome", "predict": "C:Neuroleptic malignant syndrome"}
+{"label": "B:Beta-hemolytic cocci in chains", "predict": "C:Coagulase-positive cocci in clusters"}
+{"label": "B:Arylsulfatase A", "predict": "C:Beta-galactocerebrosidase"}
+{"label": "C:Folinic acid", "predict": "D:Tetrahydrofolic acid"}
+{"label": "C:Activating natural killer cells and cytotoxic T cells", "predict": "C:Activating natural killer cells and cytotoxic T cells"}
+{"label": "A:Papillary carcinoma", "predict": "A:Papillary carcinoma"}
+{"label": "D:Decreased pulmonary capillary wedge pressure", "predict": "D:Decreased pulmonary capillary wedge pressure"}
+{"label": "C:Pituitary infarction", "predict": "C:Pituitary infarction"}
+{"label": "B:Cholecystitis", "predict": "D:Splenic sequestration crisis"}
+{"label": "B:Discontinue birth control and place an intrauterine device", "predict": "A:Colonoscopy"}
+{"label": "A:Administer naloxone", "predict": "C:Start dextrose infusion"}
+{"label": "D:Exploratory laparotomy", "predict": "B:CT abdomen and pelvis"}
+{"label": "C:Reintubate", "predict": "C:Reintubate"}
+{"label": "A:Insufficient production of procollagen type 1", "predict": "C:Defective collagen type 3"}
+{"label": "A:Antithrombin III deficiency", "predict": "D:Antiphospholipid syndrome"}
+{"label": "C:Cardiac pacing", "predict": "B:Norepinephrine"}
+{"label": "A:45/195", "predict": "D:30/200"}
+{"label": "A:Ulcerative colitis", "predict": "A:Ulcerative colitis"}
+{"label": "B:Chronic, non-bacterial prostatitis", "predict": "B:Chronic, non-bacterial prostatitis"}
+{"label": "C:Left gastroepiploic artery", "predict": "C:Left gastroepiploic artery"}
+{"label": "C:Administer hepatitis B vaccine and HBIG", "predict": "A:Administer hepatitis B vaccine"}
+{"label": "D:Supportive care", "predict": "C:Sputum culture"}
+{"label": "D:Tolterodine", "predict": "D:Tolterodine"}
+{"label": "D:Sumatriptan", "predict": "D:Sumatriptan"}
+{"label": "B:32 breaths per minute", "predict": "B:32 breaths per minute"}
+{"label": "C:Wrap finger in moist gauze, put in a plastic bag, and place on ice", "predict": "C:Wrap finger in moist gauze, put in a plastic bag, and place on ice"}
+{"label": "D:Anovulation", "predict": "D:Anovulation"}
+{"label": "C:Turner syndrome", "predict": "D:Takayasu's arteritis"}
+{"label": "A:Bleomycin", "predict": "C:Cisplatin"}
+{"label": "D:Contrast administration", "predict": "B:Adverse drug reaction"}
+{"label": "B:Caspase 1", "predict": "B:Caspase 1"}
+{"label": "A:Rough endoplasmic reticulum", "predict": "A:Rough endoplasmic reticulum"}
+{"label": "C:Medication reaction", "predict": "C:Medication reaction"}
+{"label": "A:Neisseria gonorrhoeae and Chlamydia trachomatis screening", "predict": "C:Repeat Pap smear"}
+{"label": "A:Hemolytic anemia and ataxia", "predict": "C:Irregularly irregular heart rhythm"}
+{"label": "A:The 99% confidence interval includes the null hypothesis.", "predict": "C:The p-value represents the likelihood of seeing an increased risk of placenta accreta in women with prior cesarian birth, assuming the alternative hypothesis is true."}
+{"label": "A:Gp Ib", "predict": "D:Antithrombin III"}
+{"label": "A:Alendronate", "predict": "A:Alendronate"}
+{"label": "A:Allow vaginal delivery", "predict": "B:Initiate misoprostol therapy"}
+{"label": "D:Increased renal tubular sodium reabsorption", "predict": "B:Decreased extracellular fluid (ECF) volume"}
+{"label": "B:Amoxicillin-clavulanate", "predict": "A:Amoxicillin"}
+{"label": "A:Kwashiorkor", "predict": "A:Kwashiorkor"}
+{"label": "D:X-linked dominant", "predict": "A:Autosomal dominant"}
+{"label": "D:Schizophrenia", "predict": "A:Delusional disorder"}
+{"label": "B:Mesna", "predict": "B:Mesna"}
+{"label": "B:Avoidant personality disorder", "predict": "A:Schizoid personality disorder"}
+{"label": "C:pH 7.36, PCO2 22 mmHg, and HCO3- 16 mEq/L", "predict": "C:pH 7.36, PCO2 22 mmHg, and HCO3- 16 mEq/L"}
+{"label": "B:↓ hemosiderin stores", "predict": "C:Ringed sideroblasts"}
+{"label": "D:Dilation and curettage", "predict": "D:Dilation and curettage"}
+{"label": "C:Sexually transmitted infection", "predict": "D:HLA-B 27 positivity"}
+{"label": "B:Irreversible inhibition of H+/K+-ATPase at parietal cells", "predict": "C:Reversible inhibition of H+/K+-ATPase at parietal cells"}
+{"label": "B:Fatty casts and albumin", "predict": "D:Granular casts and tubular epithelial cells"}
+{"label": "A:Measurement bias", "predict": "A:Measurement bias"}
+{"label": "D:Nests of atypical melanocytes", "predict": "A:Nonencapsulated groups of well-differentiated skeletal muscle cells"}
+{"label": "A:Myocardial perfusion scan under pharmacological stress", "predict": "C:Coronary angiography"}
+{"label": "C:Urine culture should be performed in this patient again.", "predict": "D:Urinalysis should be performed to check for leukocytes, blood, and bacteria; if positive, perform a urine culture."}
+{"label": "B:Omphalocele", "predict": "D:Cleft lip"}
+{"label": "B:Melanoma", "predict": "D:Thyroid cancer"}
+{"label": "C:Tachycardia", "predict": "D:QTc prolongation"}
+{"label": "B:Blue-green pigment", "predict": "D:Red pigment"}
+{"label": "D:Isotype switching", "predict": "D:Isotype switching"}
+{"label": "C:Inhibition of cross-bridge cycling", "predict": "A:Activation of muscle contraction by neurotoxins"}
+{"label": "A:It can lead to hydrops fetalis secondary to fetal anemia.", "predict": "A:It can lead to hydrops fetalis secondary to fetal anemia."}
+{"label": "A:Coronary artery vasospasm", "predict": "C:Atherosclerotic plaque rupture"}
+{"label": "D:Factitious disorder imposed on another\n\"", "predict": "C:Conversion disorder"}
+{"label": "B:Bladder catheterization", "predict": "A:Installing a vaginal pessary"}
+{"label": "B:Straight leg raise", "predict": "B:Straight leg raise"}
+{"label": "A:Plummer-Vinson syndrome", "predict": "A:Plummer-Vinson syndrome"}
+{"label": "A:Sorbitol dehydrogenase", "predict": "C:Arylsulfatase A"}
+{"label": "A:Chronic granulomatous disease", "predict": "B:Atopic dermatitis"}
+{"label": "C:Initiation of abduction", "predict": "D:Internal rotation"}
+{"label": "A:Osteophytes with joint-space narrowing on x-ray", "predict": "A:Osteophytes with joint-space narrowing on x-ray"}
+{"label": "C:Chediak-Higashi syndrome", "predict": "B:Common variable immunodeficiency"}
+{"label": "B:CT angiography of the chest and give oxygen", "predict": "C:Deep wound culture and start piperacillin-tazobactam"}
+{"label": "C:Inhibition of xanthine oxidase", "predict": "C:Inhibition of xanthine oxidase"}
+{"label": "B:Administer glucagon", "predict": "D:Administer norepinephrine"}
+{"label": "C:Flutamide", "predict": "A:Leuprolide"}
+{"label": "A:Hyponatremia", "predict": "D:Hypochloremia"}
+{"label": "A:Accumulation of S-adenosylmethionine", "predict": "C:Segmental demyelination of peripheral axons"}
+{"label": "D:No further work-up needed", "predict": "C:MRI of the knee"}
+{"label": "A:Escherichia coli infection", "predict": "C:Immune thrombocytopenic purpura"}
+{"label": "B:Determining patient’s life-expectancy without treatment", "predict": "D:No further steps are required because the patient already qualifies for hospice care"}
+{"label": "A:These cells transform to macrophages when they migrate to peripheral tissues.", "predict": "D:These cells have lymphoid origin."}
+{"label": "B:ß-hCG", "predict": "C:CT scan"}
+{"label": "C:History in the previous pregnancy", "predict": "C:History in the previous pregnancy"}
+{"label": "C:Medication", "predict": "C:Medication"}
+{"label": "A:Decreased lymphocyte count", "predict": "A:Decreased lymphocyte count"}
+{"label": "A:Increase in capillary pressure", "predict": "C:Increase in capillary permeability"}
+{"label": "A:Pancreatic adenocarcinoma", "predict": "D:Hepatic steatosis"}
+{"label": "A:Adrenalectomy", "predict": "C:Transsphenoidal hypophysectomy"}
+{"label": "D:Efflux of calcium ions", "predict": "B:Influx of calcium ions from the sacroplasmic reticulum"}
+{"label": "D:Intravenous hydration", "predict": "C:Allopurinol"}
+{"label": "B:Embryonic hematopoiesis", "predict": "C:Production of amniotic fluid"}
+{"label": "C:Cerebellar degeneration", "predict": "C:Cerebellar degeneration"}
+{"label": "B:Short stature", "predict": "A:Delayed skeletal maturity"}
+{"label": "C:Metoprolol succinate", "predict": "C:Metoprolol succinate"}
+{"label": "A:Prednisone and albuterol", "predict": "A:Prednisone and albuterol"}
+{"label": "A:Ovaries", "predict": "D:Vulva"}
+{"label": "C:Varenicline", "predict": "C:Varenicline"}
+{"label": "A:Avoiding all dairy products", "predict": "D:Restriction of soy products"}
+{"label": "C:Fractional excretion of urea (FEUrea)", "predict": "C:Fractional excretion of urea (FEUrea)"}
+{"label": "B:Diffuse maculopapular rash", "predict": "C:Malar rash"}
+{"label": "C:New York Heart Association Class III", "predict": "A: New York Heart Association Class IIa"}
+{"label": "A:Multiple periventricular sclerotic plaques", "predict": "A:Multiple periventricular sclerotic plaques"}
+{"label": "B:Anti-D IgG", "predict": "B:Anti-D IgG"}
+{"label": "B:Secondary active transporters fail to completely reabsorb glucose in the renal tubules", "predict": "C:There is a disruption of passive transport of the glucose in the proximal renal tubules"}
+{"label": "B:Adhesive capsulitis", "predict": "C:Glenohumeral osteoarthritis"}
+{"label": "D:Toxic exposure", "predict": "C:Neuronal hyperexcitability"}
+{"label": "A:Adjust dosage of medication throughout the pregnancy", "predict": "A:Adjust dosage of medication throughout the pregnancy"}
+{"label": "B:Intravenous cefotetan and doxycycline with inpatient admission", "predict": "A:Intramuscular ceftriaxone and oral doxycycline with outpatient follow-up"}
+{"label": "D:20%", "predict": "D:20%"}
+{"label": "C:Amoxicillin", "predict": "C:Amoxicillin"}
+{"label": "D:Inhibitor of xanthine oxidase", "predict": "D:Inhibitor of xanthine oxidase"}
+{"label": "B:Creatine kinase (CK-MB)", "predict": "D:Troponin T"}
+{"label": "B:Thumb spica cast and repeat x-rays in 2 weeks", "predict": "C:Rest, ice, and repeat x-rays in 2 weeks"}
+{"label": "A:Periductal concentric scarring and fibrosis", "predict": "A:Periductal concentric scarring and fibrosis"}
+{"label": "C:Haemophilus ducreyi", "predict": "C:Haemophilus ducreyi"}
+{"label": "C:Buspirone", "predict": "C:Buspirone"}
+{"label": "D:Hyponatremia", "predict": "D:Hyponatremia"}
+{"label": "C:Reassurance", "predict": "B:Induced vaginal delivery"}
+{"label": "B:Anti-intrinsic factor antibodies", "predict": "D:Antithrombotic state"}
+{"label": "D:Relapse", "predict": "C:Maintenance"}
+{"label": "C:Projection", "predict": "C:Projection"}
+{"label": "D:Oral mifepristone + misoprostol", "predict": "D:Oral mifepristone + misoprostol"}
+{"label": "B:Seborrheic keratosis", "predict": "B:Seborrheic keratosis"}
+{"label": "C:Increased residual volume and decreased 1 second forced expiratory volume", "predict": "C:Increased residual volume and decreased 1 second forced expiratory volume"}
+{"label": "C:Lymphoma", "predict": "D:Nephrotic syndrome"}
+{"label": "B:Hysterosalpingogram", "predict": "D:TSH level"}
+{"label": "C:Relative lipophobicity", "predict": "C:Relative lipophobicity"}
+{"label": "B:Pleural effusion", "predict": "B:Pleural effusion"}
+{"label": "C:Nadolol", "predict": "A:Endoscopic sclerotherapy"}
+{"label": "C:2-pralidoxime", "predict": "A:Neostigmine"}
+{"label": "A:Chronic lymphocytic leukemia (CLL)", "predict": "C:Monoclonal gammopathy of undetermined significance (MGUS)"}
+{"label": "C:Opportunistic colonization", "predict": "B:Neoplastic transformation"}
+{"label": "B:Dietary restriction of phenylalanine", "predict": "D:Avoidance of fasting states"}
+{"label": "B:A type 2 error is not possible in this case.", "predict": "D:A type 1 error has been made."}
+{"label": "B:Impaired iron absorption", "predict": "C:Increased serotonin production"}
+{"label": "D:Rectal suction biopsy", "predict": "B:Transabdominal ultrasonography"}
+{"label": "C:Ewing sarcoma", "predict": "C:Ewing sarcoma"}
+{"label": "D:\"I really haven't thought about the colonoscopy until today. Worrying before getting the results wasn't going to help anything.\"", "predict": "A:>\"Last week I volunteered for the local Cancer Society. Helping other cancer patients just makes me feel better.\""}
+{"label": "A:Hemoptysis", "predict": "C:Persistent ST-segment elevation"}
+{"label": "B:Disulfide bond cleavage", "predict": "D:Reduction in airway surface tension"}
+{"label": "C:Meconium aspiration", "predict": "D:Placental abruption"}
+{"label": "C:Inhibiting bacterial adherance and colonization of mucous membranes", "predict": "D:Provides the most specific recognition to circulating antigens in the bloodstream"}
+{"label": "D:Opioid overdose", "predict": "C:Hyperventilation"}
+{"label": "B:\"I have bad news I need to share with you. Please sit down so we can discuss.\"", "predict": "B:I have bad news I need to share with you. Please sit down so we can discuss."}
+{"label": "D:Slit-lamp examination", "predict": "C:Ocular examination under anesthesia"}
+{"label": "C:Vitamin B12 deficiency", "predict": "C:Vitamin B12 deficiency"}
+{"label": "C:Testing for serum ESR and autoantibodies", "predict": "B:Calcium and Vitamin D prescription"}
+{"label": "A:Paroxysmal atrial fibrillation", "predict": "A:Paroxysmal atrial fibrillation"}
+{"label": "D:Pulmonic valve stenosis", "predict": "C:Multiple peptic ulcers"}
+{"label": "C:Levofloxacin", "predict": "B:Ceftriaxone"}
+{"label": "D:Antineutrophil cytoplasmic antibodies", "predict": "D:Antineutrophil cytoplasmic antibodies"}
+{"label": "C:Exophthalmos", "predict": "D:Increased TSH release"}
+{"label": "A:Abdominal radiograph", "predict": "B:Contrast enema"}
+{"label": "D:No treatment is necessary", "predict": "D:No treatment is necessary"}
+{"label": "C:Deficient nitrogenous base production", "predict": "A:Deficient heme synthesis"}
+{"label": "B:PCR positive for Chlamydia trachomatis", "predict": "C:Positive RPR, VDRL, and FTA-ABS"}
+{"label": "D:Decreased ATP", "predict": "B:Caspase activation"}
+{"label": "A:NH3 + HCO3- + 2 ATP --> carbamoyl phosphate + 2 ADP + Pi", "predict": "A:NH3 + HCO3- + 2 ATP --> carbamoyl phosphate + 2 ADP + Pi"}
+{"label": "C:Methotrexate", "predict": "C:Methotrexate"}
+{"label": "B:Administer ampicillin intrapartum", "predict": "B:Administer ampicillin intrapartum"}
+{"label": "A:Tetralogy of Fallot", "predict": "B:Transposition of great vessels"}
+{"label": "C:Disseminated intravascular coagulation", "predict": "D:Coagulopathy of trauma"}
+{"label": "D:Streptococcus bovis", "predict": "A:Staphylococcus aureus"}
+{"label": "B:Cocaine", "predict": "D:Haloperidol"}
+{"label": "A:This patient's apnea-hypopnea index (AHI) is more than 5.", "predict": "A:This patient's apnea-hypopnea index (AHI) is more than 5."}
+{"label": "C:Radial traction on airway wall", "predict": "C:Radial traction on airway wall"}
+{"label": "D:Transfusion reaction", "predict": "A:Adverse effect of medication"}
+{"label": "A:Oral morphine therapy", "predict": "D:Dextrose infusion"}
+{"label": "C:Urine porphyrin levels", "predict": "D:Tzanck smear"}
+{"label": "C:Lysosomes", "predict": "C:Lysosomes"}
+{"label": "D:Decreased gastric blood flow", "predict": "A:Decreased prostaglandin synthesis"}
+{"label": "A:Leaden paralysis", "predict": "B:Depressive symptoms that are worse in the morning"}
+{"label": "B:1,500 units", "predict": "A:3,000 units"}
+{"label": "D:Telomerase", "predict": "C:Superoxide dismutase"}
+{"label": "A:Elevated TSH", "predict": "C:Positive anti-CCP antibodies"}
+{"label": "A:Low levels of parathyroid hormone in serum", "predict": "A:Low levels of parathyroid hormone in serum"}
+{"label": "D:Yolk sac tumor", "predict": "C:Teratoma"}
+{"label": "B:Immediate debridement and empiric IV antibiotics", "predict": "A:Immediate debridement"}
+{"label": "B:Physostigmine", "predict": "C:Pyridostigmine"}
+{"label": "B:A septal hematoma causing a perforation", "predict": "C:A deviated septum that is now straight, resulting in altered nasal airflow"}
+{"label": "B:Hair follicles", "predict": "C:Papillary dermis"}
+{"label": "B:Lateral aspect of the shoulder", "predict": "C:Skin above the clavicle"}
+{"label": "A:Decreased production of PGE2", "predict": "A:Decreased production of PGE2"}
+{"label": "A:Blocking reuptake of dopamine and norepinephrine", "predict": "B:Inhibiting breakdown of biogenic amines"}
+{"label": "B:Pramipexole", "predict": "B:Pramipexole"}
+{"label": "B:Capillary leakage", "predict": "C:Decreased cardiac output"}
+{"label": "C:Heparan sulfate", "predict": "C:Heparan sulfate"}
+{"label": "D:Acute lymphocytic leukemia", "predict": "C:Esophageal adenocarcinoma"}
+{"label": "D:Papillary carcinoma", "predict": "B:Follicular carcinoma"}
+{"label": "B:TH2 cells", "predict": "D:T0 cells"}
+{"label": "A:Left middle cerebral", "predict": "D:Left penetrating"}
+{"label": "B:15%", "predict": "A:30%"}
+{"label": "B:Cutaneous xanthomas", "predict": "C:Increased CA 19-9 levels"}
+{"label": "B:Wide pulse pressure", "predict": "A:Single S2"}
+{"label": "C:Transformation", "predict": "D:Recombination"}
+{"label": "C:Timing of the dosing of colesevelam should be separated from this patient’s other medications.", "predict": "D:Colesevelam can significantly decrease your HDL."}
+{"label": "C:1200 milligrams", "predict": "A:150 milligrams"}
+{"label": "B:Clostridium tetani", "predict": "C:Group B streptococcus"}
+{"label": "B:VIPoma", "predict": "D:Campylobacter jejuni"}
+{"label": "A:Supraspinatus", "predict": "D:Deltoid"}
+{"label": "C:Chorea", "predict": "D:Pleural effusion"}
+{"label": "D:Complete blood count", "predict": "D:Complete blood count"}
+{"label": "A:Interaction of B7 and CD28 ligands", "predict": "B:Opsonization by complement proteins"}
+{"label": "C:Adrenocortical insufficiency", "predict": "D:Pheochromocytoma"}
+{"label": "A:Ketamine", "predict": "C:Propofol"}
+{"label": "C:Deficiency of ATP", "predict": "B:Maternal antibodies against the rhesus D antigen"}
+{"label": "D:Propranolol", "predict": "D:Propranolol"}
+{"label": "A:Constriction of afferent arteriole and no effect on efferent arteriole", "predict": "C:No effect on afferent arteriole and constriction of efferent arteriole"}
+{"label": "D:It competes with acetylcholine for binding sites in the neuromuscular junction", "predict": "A:It reduces neuron and muscle tissue excitability"}
+{"label": "D:Hereditary angioedema", "predict": "D:Hereditary angioedema"}
+{"label": "A:Oral glucose challenge test", "predict": "A:Oral glucose challenge test"}
+{"label": "A:Glutamate capsule", "predict": "B:Toxin B"}
+{"label": "C:Fecal incontinence", "predict": "D:Stress incontinence"}
+{"label": "B:Pancreatic islet cell amyloid deposition", "predict": "C:Pancreatic islet cell leukocyte infiltration"}
+{"label": "A:Phyllodes tumor", "predict": "A:Phyllodes tumor"}
+{"label": "D:Zenker's diverticulum", "predict": "D:Zenker's diverticulum"}
+{"label": "A:Intravenous immunoglobulin (IVIG)", "predict": "B:Prednisone"}
+{"label": "D:Blocks reuptake of norepinephrine and serotonin", "predict": "B:Increases the release of norepinephrine and serotonin by alpha 2 receptor antagonism"}
+{"label": "D:Low-dose, no change in ACTH; high-dose, decreased ACTH", "predict": "A:Low-dose, increased ACTH; high-dose, decreased ACTH"}
+{"label": "C:Methadone", "predict": "A:Lorazepam"}
+{"label": "D:Lambert-Eaton syndrome", "predict": "D:Lambert-Eaton syndrome"}
+{"label": "B:Inquire why the patient's daughter feels her mother should not be informed of the diagnosis", "predict": "D:Tell the patient's daughter that the patient must be informed of the diagnosis"}
+{"label": "A:Erythroblasts with mitochondrial iron deposits", "predict": "A:Erythroblasts with mitochondrial iron deposits"}
+{"label": "A:Amiodarone", "predict": "D:Atropine"}
+{"label": "D:Medial longitudinal fasciculus", "predict": "C:Frontal eye field"}
+{"label": "C:Decreased release of glycine", "predict": "A:Inhibition of voltage-gated sodium channels"}
+{"label": "D:Degenerative disease of the joints", "predict": "C:Calcium pyrophosphate dihydrate crystal precipitation in the joints"}
+{"label": "B:Bullous pemphigoid", "predict": "C:Pemphigus vulgaris"}
+{"label": "A:Rest and acetaminophen", "predict": "C:Technetium bone scan"}
+{"label": "D:Passage of a catheter through the nasal cavity not possible", "predict": "A:Diffuse reticulogranular densities on chest x-ray"}
+{"label": "A:Increased Ca2+ influx in phase 4", "predict": "A:Increased Ca2+ influx in phase 4"}
+{"label": "B:Cranial ultrasonography", "predict": "C:Head CT"}
+{"label": "C:Hypertrophic cardiomyopathy", "predict": "C:Hypertrophic cardiomyopathy"}
+{"label": "B:No specific management required", "predict": "A:Prescribe levothyroxine 50 mcg daily"}
+{"label": "B:Benign salivary gland tumor composed of stromal and epithelial tissue", "predict": "A:Benign cystic tumor with stroma resembling lymph node tissue"}
+{"label": "C:Reassure the mother", "predict": "A:Advise the patient to stop masturbating"}
+{"label": "C:Sacubitril", "predict": "C:Sacubitril"}
+{"label": "B:Advanced sleep phase disorder", "predict": "C:Chronic insomnia"}
+{"label": "B:Dual-energy x-ray bone absorptiometry", "predict": "D:Transesophageal echocardiography"}
+{"label": "C:Minimal change disease", "predict": "B:Membranous nephropathy"}
+{"label": "C:Rectus abdominis", "predict": "A:Psoas major"}
+{"label": "C:Type IV–cell-mediated (delayed) hypersensitivity reaction", "predict": "A:Type I–anaphylactic hypersensitivity reaction"}
+{"label": "C:Colorectal cancer", "predict": "C:Colorectal cancer"}
+{"label": "D:46XX", "predict": "C:47XYY"}
+{"label": "A:Autosomal dominant", "predict": "A:Autosomal dominant"}
+{"label": "A:Enlarges hemolytic area of Staphylococcus aureus", "predict": "C:Produces toxin that increases cAMP levels"}
+{"label": "A:Rationalization", "predict": "A:Rationalization"}
+{"label": "C:Viral core antibody", "predict": "C:Viral core antibody"}
+{"label": "C:Increased capillary hydrostatic pressure", "predict": "B:Thrombus formation in a deep vein"}
+{"label": "B:The vascular protrusion drains into the superior rectal vein.", "predict": "A:This patient has peptic ulcer disease."}
+{"label": "A:Adenoma", "predict": "B:Carcinoma"}
+{"label": "B:Cyclothymic disorder", "predict": "C:Persistent depressive disorder"}
+{"label": "A:Increased lung compliance", "predict": "A:Increased lung compliance"}
+{"label": "C:He will have pain with inversion and eversion of his foot.", "predict": "C:He will have pain with inversion and eversion of his foot."}
+{"label": "B:Amphotericin B and flucytosine", "predict": "A:Pyrimethamine, sulfadiazine, and folinic acid"}
+{"label": "C:Low-density lipoprotein", "predict": "A:Rheumatoid factor"}
+{"label": "C:Villous atrophy and crypt hypertrophy", "predict": "C:Villous atrophy and crypt hypertrophy"}
+{"label": "C:Avoidant personality disorder", "predict": "C:Avoidant personality disorder"}
+{"label": "D:Vaccination", "predict": "A:Condoms"}
+{"label": "C:Adverse effect of anesthetic", "predict": "B:Virus-mediated hepatocellular injury"}
+{"label": "D:Hemolytic transfusion reaction; discontinue transfusion", "predict": "C:Hemolytic transfusion reaction; administer antihistamines"}
+{"label": "C:Amitriptyline", "predict": "C:Amitriptyline"}
+{"label": "C:Papilledema", "predict": "A:Bilateral pedal edema"}
+{"label": "C:Monosodium urate", "predict": "C:Monosodium urate"}
+{"label": "D:Pes anserine bursitis", "predict": "B:Medial meniscus tear"}
+{"label": "C:Mifepristone", "predict": "C:Mifepristone"}
+{"label": "A:Demyelination of the medial longitudinal fasciculus", "predict": "D:Infarction of the brainstem"}
+{"label": "A:Cilostazol", "predict": "D:Interventional endovascular treatment"}
+{"label": "D:Thoracic aortic aneurysm", "predict": "A:Pulmonary hypertension"}
+{"label": "D:Flagellated protozoa", "predict": "A:Gram-negative diplococci"}
+{"label": "C:NSAIDs", "predict": "C:NSAIDs"}
+{"label": "D:Corneal reflex test", "predict": "D:Corneal reflex test"}
+{"label": "C:Adhesive pili", "predict": "C:Adhesive pili"}
+{"label": "A:Brownish inclusions in the pulmonary macrophages on H&E staining", "predict": "A:Brownish inclusions in the pulmonary macrophages on H&E staining"}
+{"label": "C:Analysis of variance", "predict": "A:Pearson correlation analysis"}
+{"label": "A:Propranolol", "predict": "A:Propranolol"}
+{"label": "A:Left frontal lobe", "predict": "D:Right temporal lobe"}
+{"label": "D:Dilation of the intracerebral arterioles", "predict": "A:Meningeal irritation by blood products originating from a chronic subdural hematoma"}
+{"label": "B:Tetanus, diphtheria, and acellular pertussis booster (Tdap) vaccine", "predict": "B:Tetanus, diphtheria, and acellular pertussis booster (Tdap) vaccine"}
+{"label": "A:Gram-negative bacilli", "predict": "A:Gram-negative bacilli"}
+{"label": "D:Increased breakdown of intracellular RNA", "predict": "B:Enhanced macrophage phagocytic function"}
+{"label": "D:HLA-A3", "predict": "A:HLA-DR3"}
+{"label": "C:Gluten-free diet", "predict": "D:Methysergide maleate"}
+{"label": "D:Cell injury due to drug metabolites", "predict": "A:Degranulation of presensitized mast cells"}
+{"label": "A:Can be transmitted on medical equipment even after autoclaving instruments", "predict": "D:Leads to intracellular aggregations of hyperphosphorylated tau protein"}
+{"label": "B:Hypoparathyroidism", "predict": "C:Partial albinism"}
+{"label": "B:Diminished ovarian reserve", "predict": "C:Hypogonadotropic hypogonadism"}
+{"label": "A:N-acetylcysteine", "predict": "C:IV fluids"}
+{"label": "C:Gonadal mosaicism", "predict": "D:Incomplete penetrance"}
+{"label": "C:High TSH", "predict": "D:Hypercholesterolemia"}
+{"label": "A:Fibroadenoma", "predict": "A:Fibroadenoma"}
+{"label": "C:Respect the patient's written instructions and do not adminster a blood transfusion", "predict": "C:Respect the patient's written instructions and do not adminster a blood transfusion"}
+{"label": "A:Increase the frequency of blood glucose checks.", "predict": "C:Continue same regimen."}
+{"label": "A:Hyperplasia", "predict": "A:Hyperplasia"}
+{"label": "B:Reassurance and follow-up", "predict": "C:X-ray of the lower extremities"}
+{"label": "A:No further intervention", "predict": "B:Colposcopy and biopsy"}
+{"label": "A:Ventricular septal defect", "predict": "D:Holoprosencephaly"}
+{"label": "B:Lipodystrophy", "predict": "D:Peripheral neuropathy"}
+{"label": "A:Overflow proteinuria", "predict": "C:Orthostatic proteinuria"}
+{"label": "D:T-score of -1.6", "predict": "A:T-score of 1.2"}
+{"label": "D:Corynebacterium diphtheriae", "predict": "D:Corynebacterium diphtheriae"}
+{"label": "C:Lysosomal acid maltase", "predict": "C:Lysosomal acid maltase"}
+{"label": "D:Granulocyte-macrophage colony-stimulating factor", "predict": "B:Erythropoietin"}
+{"label": "D:ANA and anti-dsDNA levels", "predict": "A:IM haloperidol"}
+{"label": "A:Bacteroides fragilis", "predict": "B:Campylobacter jejuni"}
+{"label": "C:Psoriatic arthritis", "predict": "A:Gout"}
+{"label": "B:Required for dehydrogenase enzymes", "predict": "D:Required for methylmalonyl-CoA processing"}
+{"label": "D:Sentinel node - right lumbar trunk - cisterna chyli - thoracic duct - left subclavian vein - systemic circulation", "predict": "A:Sentinel node - left lumbar trunk - cisterna chyli - right bronchomediastinal trunk - right lymphatic duct - right subclavian vein - systemic circulation"}
+{"label": "B:Granulation tissue", "predict": "C:Pyogenic membrane"}
+{"label": "A:Angiotensin-converting-enzyme inhibitor (ACEI)", "predict": "D:Thiazide"}
+{"label": "B:Abnormal CFTR protein", "predict": "D:Due to mutations in dynein, the ciliary epithelium fails to provide appropriate mucociliary clearance."}
+{"label": "C:Fluoxetine", "predict": "C:Fluoxetine"}
+{"label": "A:Endocardial cushion", "predict": "B:Infundibular septum"}
+{"label": "A:Tumor necrosis factor-α", "predict": "A:Tumor necrosis factor-α"}
+{"label": "C:Eosinophilic esophagitis", "predict": "A:Achalasia"}
+{"label": "A:Exertional heat stroke", "predict": "C:Neuroleptic malignant syndrome"}
+{"label": "C:Impaired methylation of myelin phospholipids", "predict": "D:Influence of pseudo-neurotransmitters"}
+{"label": "D:Reassurance", "predict": "B:Vaginal culture"}
+{"label": "A:Sofosbuvir and simeprevir", "predict": "D:Lamivudine"}
+{"label": "C:Silent thyroiditis", "predict": "A:Graves' disease"}
+{"label": "B:Anti-cyclic citrullinated peptide (anti-CCP) antibody", "predict": "A:Synovial fluid analysis"}
+{"label": "D:Increased serum amyloid A production", "predict": "C:Renal deposition of AL amyloid"}
+{"label": "B:Copper", "predict": "D:Mercury"}
+{"label": "B:Gram-positive bacteria producing exotoxin that acts via ADP ribosylation", "predict": "C:Gram-positive cocci with hyaluronic acid capsule"}
+{"label": "C:Syringomyelia", "predict": "C:Syringomyelia"}
+{"label": "A:Increased creatine kinase concentration", "predict": "D:Increased bradykinin concentration"}
+{"label": "D:Hyperplasia of the adrenal cortex", "predict": "A:Hyperproliferation of theca interna cells"}
+{"label": "A:Hyperplasia of juxtaglomerular cells", "predict": "C:Decreased prostaglandin synthesis by macula densa"}
+{"label": "B:Hyperbaric oxygen therapy", "predict": "D:Heliox therapy"}
+{"label": "D:Right main", "predict": "D:Right main"}
+{"label": "C:Formation of noncaseating granulomas", "predict": "C:Formation of noncaseating granulomas"}
+{"label": "B:Osteitis deformans", "predict": "D:Osteitis fibrosa cystica"}
+{"label": "A:Dantrolene", "predict": "D:Surgical embolectomy"}
+{"label": "B:Double-positive T cell", "predict": "D:Single-positive CD8+ T cell"}
+{"label": "C:Posttraumatic stress disorder", "predict": "C:Posttraumatic stress disorder"}
+{"label": "D:Elastase", "predict": "D:Elastase"}
+{"label": "C:Rosiglitazone", "predict": "D:Glyburide"}
+{"label": "A:Cognitive-behavioral therapy", "predict": "B:In-patient psychiatric therapy"}
+{"label": "C:Trimethoprim, sulfamethoxazole, azithromycin", "predict": "A:Azithromycin and itraconazole"}
+{"label": "D:Is transmitted by air conditioning", "predict": "A:Can form an endospore"}
+{"label": "A:Radiograph of the wrist", "predict": "C:Thumb spica cast"}
+{"label": "C:Clomiphene therapy", "predict": "D:Leuprolide therapy"}
+{"label": "C:Acute inferior myocardial infarction", "predict": "C:Acute inferior myocardial infarction"}
+{"label": "B:Request further information about which drugs he has taken recently and in the past", "predict": "A:Prescribe a long-acting opioid for better pain relief if he is willing to sign a pain contract"}
+{"label": "A:Botox", "predict": "C:Methylprednisolone"}
+{"label": "B:Intravenous vancomycin therapy", "predict": "B:Intravenous vancomycin therapy"}
+{"label": "C:Iron deficiency", "predict": "D:β-thalassemia minor"}
+{"label": "A:Pancreas", "predict": "C:Duodenum"}
+{"label": "C:Bupropion lowers the seizure threshold and it should not be taken by patients with a history of seizure disorder.", "predict": "A:Omeprazole interferes with bupropion metabolism and should be taken one hour prior to omeprazole consumption."}
+{"label": "A:“I'm sorry for your loss. This must be a difficult situation for you.”", "predict": "C:“Losing a baby is difficult; but I see this every day, and I know you'll get through it.”"}
+{"label": "D:Iron deficiency", "predict": "B:Intravascular hemolysis"}
+{"label": "A:67%", "predict": "D:50%"}
+{"label": "B:Cell wall inhibitor", "predict": "D:Prostaglandin inhibitor"}
+{"label": "D:A 9-month-old boy who has had recurrent otitis media and pneumococcal pneumonia in the past three months", "predict": "D:A 9-month-old boy who has had recurrent otitis media and pneumococcal pneumonia in the past three months"}
+{"label": "A:Affective symptoms", "predict": "A:Affective symptoms"}
+{"label": "C:Decreased activity of UDP-glucuronosyltransferase", "predict": "A:Autoimmune-mediated fibrosis of biliary tract"}
+{"label": "C:Hypercellular areas of spindle cells and hypocellular areas of myxoid stroma", "predict": "C:Hypercellular areas of spindle cells and hypocellular areas of myxoid stroma"}
+{"label": "B:Decreasing sodium intake", "predict": "D:Urine acidification with cranberry juice"}
+{"label": "D:Propranolol therapy", "predict": "C:Levodopa and carbidopa therapy"}
+{"label": "A:Recipient T-cells in the graft", "predict": "B:Drug-induced nephrotoxicity"}
+{"label": "A:Proton-pump inhibitors", "predict": "A:Proton-pump inhibitors"}
+{"label": "A:Cardiac contusion", "predict": "C:Aortic dissection"}
+{"label": "D:Broad and waxy casts", "predict": "D:Broad and waxy casts"}
+{"label": "B:Upper gastointestinal endoscopy", "predict": "D:Ultrasound of the neck"}
+{"label": "C:Echocardiography", "predict": "C:Echocardiography"}
+{"label": "A:Glycine", "predict": "A:Glycine"}
+{"label": "A:Anion gap metabolic acidosis", "predict": "A:Anion gap metabolic acidosis"}
+{"label": "C:Nasal congestion due to a viral infection", "predict": "A:Bronchospasm due to bronchial asthma"}
+{"label": "A:Hepatocytes with shrunken, eosinophilic cytoplasm and pyknotic nuclei", "predict": "A:Hepatocytes with shrunken, eosinophilic cytoplasm and pyknotic nuclei"}
+{"label": "D:Punctate bleeding spots when dermatologic scales are removed", "predict": "B:Narrowing of the spinal canal when standing upright"}
+{"label": "B:Proper diet and iron supplementation", "predict": "B:Proper diet and iron supplementation"}
+{"label": "D:Phenoxybenzamine", "predict": "D:Phenoxybenzamine"}
+{"label": "C:Decreased heart rate", "predict": "C:Decreased heart rate"}
+{"label": "B:Craniopharyngioma", "predict": "D:Pituitary adenoma"}
+{"label": "C:Administer betamethasone, ampicillin, and proceed with cesarean section", "predict": "C:Administer betamethasone, ampicillin, and proceed with induction of labor"}
+{"label": "D:Lysosomal enzymes", "predict": "B:Lipoteichoic acid"}
+{"label": "A:The future risk of open-angle glaucoma is the same in patients with and those without diabetes", "predict": "C:Diabetes is not associated with an increased prevalence of open-angle glaucoma"}
+{"label": "A:A type 1 error occurs when the null hypothesis is true but is rejected in error.", "predict": "A:A type 1 error occurs when the null hypothesis is true but is rejected in error."}
+{"label": "A:Myocardial infarction", "predict": "D:Polyneuropathy"}
+{"label": "B:Incision and drainage", "predict": "B:Incision and drainage"}
+{"label": "A:9/100", "predict": "D:9/100"}
+{"label": "B:Multiple endocrine neoplasia (MEN) 2A", "predict": "B:Multiple endocrine neoplasia (MEN) 2A"}
+{"label": "A:Increased alveolar-arterial gradient", "predict": "A:Increased alveolar-arterial gradient"}
+{"label": "C:Protein S deficiency", "predict": "A:Distal peripheral microembolism"}
+{"label": "C:Epstein barr virus (EBV)", "predict": "A:Bartonella henselae"}
+{"label": "A:X-linked recessive", "predict": "A:X-linked recessive"}
+{"label": "D:Deep vein thrombosis\n\"", "predict": "B:Osteosarcoma"}
+{"label": "B:Mefloquine", "predict": "B:Mefloquine"}
+{"label": "D:MEN1", "predict": "B:Gastric adenocarcinoma, intestinal type"}
+{"label": "A:Insulin production by the pancreas is insufficient for exenatide to be effective.", "predict": "C:Suppression of appetite makes it even harder for him to gain weight."}
+{"label": "B:Mesothelioma", "predict": "D:Congestive heart failure"}
+{"label": "C:Blood glucose and cholesterol level measurements", "predict": "A:17-hydroxyprogesterone and cortisol level measurements"}
+{"label": "A:480 mL", "predict": "D:1200 mL"}
+{"label": "D:Prednisone", "predict": "D:Prednisone"}
+{"label": "D:Progestin therapy", "predict": "C:Reassurance and follow-up"}
+{"label": "A:Efavirenz", "predict": "C:Raltegravir"}
+{"label": "A:Ixodes scapularis", "predict": "D:Anopheles"}
+{"label": "B:Simvastatin", "predict": "B:Simvastatin"}
+{"label": "B:Scalded skin syndrome", "predict": "D:Pyoderma"}
+{"label": "B:Lichen sclerosus", "predict": "B:Lichen sclerosus"}
+{"label": "A:Bilateral miosis", "predict": "D:Mydriasis of the left eye"}
+{"label": "A:Laparoscopy", "predict": "A:Laparoscopy"}
+{"label": "D:Arteriovenous malformation in the colonic wall", "predict": "C:Chronic mucosal and submucosal inflammation of the colon"}
+{"label": "A:Vasovagal syncope", "predict": "C:Cardiac arrhythmia"}
+{"label": "B:Apply a simple shoulder sling", "predict": "C:Obtain an MRI of the right shoulder"}
+{"label": "B:Direct activation of dopamine receptors", "predict": "B:Direct activation of dopamine receptors"}
+{"label": "C:Retinoic acid", "predict": "B:Fresh frozen plasma"}
+{"label": "B:Blocking antibody attack on the O antigen", "predict": "A:ADP ribosylation of elongation factor 2"}
+{"label": "A:Ventricular shunting", "predict": "D:Donepezil therapy"}
+{"label": "B:Surgical fusion of C1/C2", "predict": "C:Administration of methylprednisolone"}
+{"label": "B:Delirium", "predict": "B:Delirium"}
+{"label": "C:Nifedipine", "predict": "D:Hydrochlorthiazide"}
+{"label": "B:Plasmodium falciparum", "predict": "B:Plasmodium falciparum"}
+{"label": "D:Thyroid-stimulating hormone (TSH)", "predict": "D:Thyroid-stimulating hormone (TSH)"}
+{"label": "D:Medication abuse", "predict": "C:VIPoma"}
+{"label": "B:Stop evening exercise", "predict": "D:Scheduled afternoon naps"}
+{"label": "C:Schizotypal personality disorder", "predict": "C:Schizotypal personality disorder"}
+{"label": "C:Chronic obstructive pulmonary disease (COPD)", "predict": "C:Chronic obstructive pulmonary disease (COPD)"}
