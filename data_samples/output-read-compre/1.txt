@@ -1,0 +1,11 @@
+Explore the initial section of an article on biomedicine: Reading skills, creativity, and insight: exploring the connections.
+Studies of the relationship between creativity and specific reading disabilities have produced inconclusive results. We explored their relationship in a sample of 259 college students (age range: 17 to 38 years-old) from three Chilean universities. The students were tested on their verbal ability, creativity, and insight.
+What could be the next part? A simple linear regression was performed on the complete sample, and on high- and low-achievement groups that were formed based on reading test scores. We observed a significant correlation in the total sample between outcomes on the verbal ability tasks, and on the creativity and insight tasks (range r =. 152 to r =. 356, ps <.001). Scores on the reading comprehension and phonological awareness tasks were the best predictors of performance on creativity and insight tasks (range β = .315 to β = .155, ps <.05). A comparison of the low- and high-scoring groups on verbal ability tasks yielded results to the same effect. These findings do not support the hypothesis that specific reading disability is associated with better performance on creative tasks. Instead, higher verbal ability was found to be associated with higher creativity and insight.
+
+Now answer these questions:
+
+Produce a sentence which mentions all of these biomedicine concepts: predictors, phonological, creativity
+Answer:## Response:Scores on the reading comprehension and phonological awareness tasks were the best predictors of performance on creativity and insight tasks (range β = .315 to β = .155, ps <.05).
+
+Produce a sentence which mentions all of these biomedicine concepts: inconclusive, disabilities, creativity
+Answer:## Response:Studies of the relationship between creativity and specific reading disabilities have produced inconclusive results.
