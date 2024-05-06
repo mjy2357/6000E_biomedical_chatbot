@@ -15,6 +15,7 @@ pip install -i https://pypi.tuna.tsinghua.edu.cn/simple -r requirements.txt
 
 # 2. Prepare data
 
+## Before data procession, please ensure that the 'data' folder has been placed within the project directory.
 Firstly, filter out data in biomedical domain. (Since the original data file is too huge to upload, we directly uplaod the filtered subset 03_med.json and **you can skip this step** in fact)
 
 ```bash
@@ -28,6 +29,8 @@ python raw2read.py
 ```
 
 # 3. Set training configurations and fine-tune the model
+
+## Before training, please ensure that the model file 'Llama-2-7b-chat-hf' has been placed within the project directory.
 
 **Use following commands on the terminal to fine-tune the base model. (The training process maybe quite long, we strongly suggest using the trained LoRA adapter directly).**
 
