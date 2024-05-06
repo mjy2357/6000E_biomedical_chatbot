@@ -11,15 +11,17 @@ conda create -n 6000E_biomedical_chatbot python==3.10
 conda activate 6000E_biomedical_chatbot
 cd 6000E_biomedical_chatbot
 pip install -i https://pypi.tuna.tsinghua.edu.cn/simple -r requirements.txt
+sudo apt-get update
+sudo apt-get install unrar
 ```
 
 # 2. Prepare data
 
-## Before data procession, please ensure that the 'data' folder has been placed within the project directory.
-Firstly, filter out data in biomedical domain. (Since the original data file is too huge to upload, we directly uplaod the filtered subset 03_med.json and **you can skip this step** in fact)
+Firstly, download and unpackage 'data' folder (including filtered biomedical subset of pile: '03_med.json'). If these commands fail, you may need download the 'data.rar' from https://huggingface.co/datasets/dango2357/6000E_project manually and **place it under the directory**.
 
 ```bash
-python clean.py
+wget https://huggingface.co/datasets/dango2357/6000E_project/resolve/main/data.rar
+unrar x data.rar
 ```
 
 Then, sample 100,000 instances and convert the format of data from raw to reading comprehension (This may take around 10 minutes)
@@ -30,7 +32,12 @@ python raw2read.py
 
 # 3. Set training configurations and fine-tune the model
 
-## Before training, please ensure that the model file 'Llama-2-7b-chat-hf' has been placed within the project directory.
+Firstly, download and unpackage the base model 'Llama-2-7b-chat-hf' folder. If these commands fail, you may need download the 'Llama-2-7b-chat-hf.rar' from https://huggingface.co/datasets/dango2357/6000E_project manually and **place it under the directory**.
+
+```bash
+wget https://huggingface.co/datasets/dango2357/6000E_project/resolve/main/Llama-2-7b-chat-hf.rar
+unrar x Llama-2-7b-chat-hf.rar
+```
 
 **Use following commands on the terminal to fine-tune the base model. (The training process maybe quite long, we strongly suggest using the trained LoRA adapter directly).**
 
