@@ -3,6 +3,7 @@
 This repo is  for the 6000E course project. Thanks professor Kim and TAs for your guidance. The data procession part is inspired by  [LMOps/adaptllm at main · microsoft/LMOps (github.com)](https://github.com/microsoft/LMOps/tree/main/adaptllm), and the fine-tuning & evaluation part are mainly based on the LLaMa Factory [hiyouga/LLaMA-Factory: Unify Efficient Fine-Tuning of 100+ LLMs (github.com)](https://github.com/hiyouga/LLaMA-Factory). Thanks for their work.
 
 # 1. Install dependencies
+You can change to other sources if the installing process is slow.
 
 ```bash
 git clone https://github.com/mjy2357/6000E_biomedical_chatbot.git
@@ -14,7 +15,7 @@ pip install -i https://pypi.tuna.tsinghua.edu.cn/simple -r requirements.txt
 
 # 2. Prepare data
 
-Firstly, filter out data in biomedical domain. (Since the original data file is too huge to upload, we directly uplaod the filtered subset 03_med.json)
+Firstly, filter out data in biomedical domain. (Since the original data file is too huge to upload, we directly uplaod the filtered subset 03_med.json and **you can skip this step** in fact)
 
 ```bash
 python clean.py
